@@ -1,0 +1,13 @@
+name = "Underwater Enchanting"
+filename = "underwaterenchanting-1.19.2-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e8JtTY4h/versions/HfUlG720/underwaterenchanting-1.19.2-2.3.jar"
+hash-format = "sha1"
+hash = "d9c0329ea4bfef35b440b4960fa88d51cbfdeecf"
+
+[update]
+[update.modrinth]
+mod-id = "e8JtTY4h"
+version = "HfUlG720"

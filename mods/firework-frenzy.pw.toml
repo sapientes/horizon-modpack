@@ -1,0 +1,13 @@
+name = "Firework Frenzy"
+filename = "fireworkfrenzy-1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7634a8716de56b73382d862fa068b4e6ae6f36f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3856034
+project-id = 520310

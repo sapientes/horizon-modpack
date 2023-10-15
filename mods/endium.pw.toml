@@ -1,0 +1,13 @@
+name = "The Endium Expansion"
+filename = "endium-v2.0.0-beta_1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HhtxCzf3/versions/XKMTNJsm/endium-v2.0.0-beta_1.jar"
+hash-format = "sha1"
+hash = "6ef388e96c73dbe1b8c19efb95c2da58b1a6d3eb"
+
+[update]
+[update.modrinth]
+mod-id = "HhtxCzf3"
+version = "XKMTNJsm"

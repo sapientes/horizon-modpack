@@ -1,0 +1,13 @@
+name = "AttributeFix"
+filename = "AttributeFix-Fabric-1.19.2-17.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOOpEntO/versions/w0gEQWpC/AttributeFix-Fabric-1.19.2-17.2.7.jar"
+hash-format = "sha1"
+hash = "c57f1ce7b0f7690b858a425be63cd2b057b11f7f"
+
+[update]
+[update.modrinth]
+mod-id = "lOOpEntO"
+version = "w0gEQWpC"

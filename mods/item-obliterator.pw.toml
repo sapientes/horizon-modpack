@@ -1,0 +1,13 @@
+name = "Item Obliterator"
+filename = "Item_Obliterator-Fabric_Quilt-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ESR84kR/versions/wStgh7KF/Item_Obliterator-Fabric_Quilt-1.2.0.jar"
+hash-format = "sha1"
+hash = "bd8778acb9b8000221349f5c7754169c55115c5a"
+
+[update]
+[update.modrinth]
+mod-id = "3ESR84kR"
+version = "wStgh7KF"

@@ -1,0 +1,13 @@
+name = "Pseudoscience Server Modpack"
+author = "oskardotglobal, KhaosLatet"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "36195a2e92d6015432727ee8320fa28d6ae07e867879bff8006658f62519bb45"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.2"
