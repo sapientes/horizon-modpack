@@ -4,8 +4,8 @@ Set the values in server.properties according to the server.properties in includ
 
 ## Installation on launchers besides Prism
 
-> [!warn] A note on MultiMC
-> The supplied pack is **incompatible with MultiMC** as it doesn't support Java agent components.
+> [!IMPORTANT]  
+> The supplied pack is **incompatible with MultiMC** as it doesn't support Java agent components.  
 > Use Prism instead or install manually using the method below.
 
 This should work with all common launchers, however, installing with a launcher other than Prism isn't actively supported.  
