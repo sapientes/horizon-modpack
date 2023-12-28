@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/blueprint.pw.toml"
-hash = "079bdd15fe839b3937ae6f75e421c9d72e170374497055858d7265100a50fd48"
+hash = "f30dc5b64b12df077cabf15d38ad1480f5459a8025de2d7ee71232d1dcaf383a"
 metafile = true
 
 [[files]]
@@ -278,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "cbe0f4767d41e1eb87c437bae11c7760e042d0d0c213eb23cd8b7ec807247dfc"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f982446e0d81644ee7ae042c7014ce7383d625850b7f17e288768684c9bdcf70"
 metafile = true
 
 [[files]]
