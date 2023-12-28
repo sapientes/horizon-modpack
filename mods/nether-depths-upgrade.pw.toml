@@ -1,0 +1,13 @@
+name = "Nether Depths Upgrade"
+filename = "netherdepthsupgrade-3.1.1-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vI1QKJro/versions/4vBIcLl5/netherdepthsupgrade-3.1.1-1.19.2.jar"
+hash-format = "sha1"
+hash = "efe5dcae7aa21a09578801b9dcca341c65e7d4cb"
+
+[update]
+[update.modrinth]
+mod-id = "vI1QKJro"
+version = "4vBIcLl5"
