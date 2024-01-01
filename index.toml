@@ -256,6 +256,11 @@ hash = "ff99cd5d0d548ef6efc45c0a05df0b29d5aa67b0c4ff165c1df9373b88c12074"
 metafile = true
 
 [[files]]
+file = "mods/integrated-api.pw.toml"
+hash = "f982446e0d81644ee7ae042c7014ce7383d625850b7f17e288768684c9bdcf70"
+metafile = true
+
+[[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "08b87444b18f6dcfe664c0acc308c30066c7ca3b2ae8324e1c86eab690c5860a"
 metafile = true
