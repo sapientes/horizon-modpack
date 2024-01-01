@@ -1,0 +1,13 @@
+name = "Unique Enchantments - Utils"
+filename = "Unique Enchantments Utils-1.19.2-3.0.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "84adb01f6b5a56dba0c5fc7f87047af820eee83b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4184933
+project-id = 382138

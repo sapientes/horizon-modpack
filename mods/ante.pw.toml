@@ -1,0 +1,13 @@
+name = "Anvil Never Too Expensive"
+filename = "AnvilNeverTooExpensive-1.19-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TEOa2X8B/versions/G3CnZyeX/AnvilNeverTooExpensive-1.19-1.1.jar"
+hash-format = "sha1"
+hash = "5c4bd93c19321ad8f47f50f95024fb45286c80ad"
+
+[update]
+[update.modrinth]
+mod-id = "TEOa2X8B"
+version = "G3CnZyeX"
