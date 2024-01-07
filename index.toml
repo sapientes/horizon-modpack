@@ -121,11 +121,6 @@ hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
 metafile = true
 
 [[files]]
-file = "mods/create-ad-astra-compat.pw.toml"
-hash = "2dfff1ab10301fb7643aede164b57581f08a794ca8974824541d823658dfd8e9"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "ec21cc88df303f23078a6c7b47f536f7ef0b1c2872238b778a790bf98083f745"
 metafile = true
@@ -406,6 +401,21 @@ hash = "835d2af2c77bb0978fd33dddabb92e400c9af237462d0c04298bc1d14dcfacae"
 metafile = true
 
 [[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "6954a458df0f72f65d2ba8131d6735059a9b2be4f711285ba887b32f8f7377d8"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-tools.pw.toml"
+hash = "29b25fadacfa558acd627ab3764323750f544ed4d3b7f5389cae8397e4fea56c"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "689fb8093bee711ff14e8fe0f1f03e8a65e1d0eabd0d729c11cff1f451977813"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
 metafile = true
@@ -458,6 +468,11 @@ metafile = true
 [[files]]
 file = "mods/paragon.pw.toml"
 hash = "e57214b13e3156eab1eaa724c8b3d78f55bcf471ad697a0acfcf363c9a46c6bd"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
 metafile = true
 
 [[files]]
