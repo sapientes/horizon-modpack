@@ -1,0 +1,13 @@
+name = "Netherific"
+filename = "phantasmic-1.19.2-0.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9a4adb82d1367f4ecfc5c481bf4cf00d3f958f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4718296
+project-id = 479296
