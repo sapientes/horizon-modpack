@@ -1,0 +1,13 @@
+name = "Just CTGUI"
+filename = "Just_CTGUI_0.0.3_beta_1.19.2_build_3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uQorKjjW/versions/IhXTQTRh/Just_CTGUI_0.0.3_beta_1.19.2_build_3.jar"
+hash-format = "sha1"
+hash = "d7c7b271043408594046f9d1c17bb3944460ae71"
+
+[update]
+[update.modrinth]
+mod-id = "uQorKjjW"
+version = "IhXTQTRh"

@@ -1,0 +1,13 @@
+name = "Actually Unbreaking"
+filename = "actuallyunbreaking-1.19.4-0.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ClQLN4h7/versions/vu40IvUt/actuallyunbreaking-1.19.4-0.1.1.jar"
+hash-format = "sha1"
+hash = "e278e6b37669a8125d7ca3dedef1053201d31d27"
+
+[update]
+[update.modrinth]
+mod-id = "ClQLN4h7"
+version = "vu40IvUt"
