@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/ad-astra.pw.toml"
-hash = "9931ba04fc0f075c9d132714dc703b08cd11aaab27a7db9b28d6c4fa79eb50b2"
-metafile = true
-
-[[files]]
 file = "mods/additional-lanterns.pw.toml"
 hash = "0d0219c950c3bbebc406af08a5ad109755a24f7e1333c4e3d8b929cd25e09472"
 metafile = true
