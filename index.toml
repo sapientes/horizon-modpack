@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-obliterator.pw.toml"
-hash = "4b25d36d89c73c9b8ce7300ef4d9d5c03f462cf98a0243a52946a8a74e3e2448"
+hash = "30b167a75fcff455db435af6dc175f9d0b40e3e9673759ee6844a6b80e18f6f4"
 metafile = true
 
 [[files]]
