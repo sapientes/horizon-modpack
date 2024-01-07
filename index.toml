@@ -316,6 +316,11 @@ hash = "c62adcdfaecc06cc4df1303bd9e549af56af806a530c4acccd8dc64e7fe21ce7"
 metafile = true
 
 [[files]]
+file = "mods/itemobliterator.pw.toml"
+hash = "94fda2642d55d192ff36abff9e6a53d8acfb475383095d89fc2c91968d41c3cc"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "c11011cc9fb5bd521e5805e732dd131357ae8fb21f682a7ab2db4aa8ad9a0e41"
 metafile = true
