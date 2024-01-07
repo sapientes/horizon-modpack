@@ -1,13 +1,13 @@
 name = "I don't want portal yet"
-filename = "idontwantportalyet-1.11.jar"
-side = "both"
+filename = "idontwantportalyet-1.12.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZL0bfFvm/versions/zxPgDkxv/idontwantportalyet-1.11.jar"
+url = "https://cdn.modrinth.com/data/ZL0bfFvm/versions/liMsYAaf/idontwantportalyet-1.12.jar"
 hash-format = "sha1"
-hash = "92ff87db555abfdb2ae3f29f4de65529455de1d4"
+hash = "ac0368cd079c7af45ffc5917a033892158688e3b"
 
 [update]
 [update.modrinth]
 mod-id = "ZL0bfFvm"
-version = "zxPgDkxv"
+version = "liMsYAaf"

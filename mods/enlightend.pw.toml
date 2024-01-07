@@ -1,0 +1,13 @@
+name = "Enlightend"
+filename = "enlightend-5.0.12-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SwolYSb8/versions/t4PeFW0d/enlightend-5.0.12-1.19.2.jar"
+hash-format = "sha1"
+hash = "16e4a17a14d8821d664e92d691f5fcabab01df87"
+
+[update]
+[update.modrinth]
+mod-id = "SwolYSb8"
+version = "t4PeFW0d"
