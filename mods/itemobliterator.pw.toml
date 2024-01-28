@@ -1,7 +1,0 @@
-name = "itemobliterator"
-filename = "item_obliterator-2.0.0.jar"
-
-[download]
-url = "https://github.com/nyxmc/pseudoscience-modpack/raw/v1/include/item_obliterator-2.0.0.jar"
-hash-format = "sha256"
-hash = "6e5bd3709600eea5c1530e6da6481bc2387bd5657a35f216a03601749425ba03"

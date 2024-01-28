@@ -1,0 +1,13 @@
+name = "Elytra Aeronautics(Forge)"
+filename = "Elytra aeronautics Forge-1.19.2-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4cb9034c3fa8b08bb96412ddb9bf88f21873c144"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4532577
+project-id = 697932

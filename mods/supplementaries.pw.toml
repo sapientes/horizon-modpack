@@ -1,13 +1,13 @@
 name = "Supplementaries"
-filename = "supplementaries-1.19.2-2.4.15.jar"
+filename = "supplementaries-1.19.2-2.4.16.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/Vi3VWe1C/supplementaries-1.19.2-2.4.16.jar"
 hash-format = "sha1"
-hash = "5ce7120c5807667a55d9a5401ae4bce62022de21"
-mode = "metadata:curseforge"
+hash = "e76ca282acb0428b97720057ae4f94cc3779a31b"
 
 [update]
-[update.curseforge]
-file-id = 4989065
-project-id = 412082
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "Vi3VWe1C"

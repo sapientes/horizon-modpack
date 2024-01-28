@@ -1,13 +1,13 @@
 name = "Ars Nouveau"
-filename = "ars_nouveau-1.19.2-3.22.2.jar"
+filename = "ars_nouveau-1.19.2-3.22.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TKB6INcv/versions/VEGYBbXt/ars_nouveau-1.19.2-3.22.2.jar"
 hash-format = "sha1"
-hash = "8b7179d024051b4f58d80726b3c5cf1d92fe3da6"
+hash = "3aef9fa4c9062449681d32fa336dd530c89dc6f5"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "TKB6INcv"
-version = "VEGYBbXt"
+[update.curseforge]
+file-id = 5048131
+project-id = 401955
