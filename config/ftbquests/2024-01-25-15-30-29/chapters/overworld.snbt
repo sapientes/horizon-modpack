@@ -1,0 +1,798 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "7D59D3DF3DF97CC7"
+	id: "4C619A253507E9FC"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1C090AFA80269324"]
+			id: "0372E8B8B39CB95A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18C9AF83EF9B4B43"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			subtitle: "This questbook was made in a rush."
+			tasks: [{
+				count: 10L
+				id: "4612B59B18934F26"
+				item: "minecraft:obsidian"
+				type: "item"
+			}]
+			title: "Nether Enough Time."
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			description: [""]
+			id: "5100AC79D166E553"
+			subtitle: "Congrats, you logged on."
+			tasks: [{
+				dimension: "minecraft:overworld"
+				icon: "minecraft:grass_block"
+				id: "68D831ECE582FB63"
+				type: "dimension"
+			}]
+			title: "Overworld!"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5100AC79D166E553"]
+			id: "351DA5434BA19853"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CF0D2907BCD0257"
+				table_id: 2797986677222512519L
+				type: "choice"
+			}]
+			subtitle: "Don't axe any questions."
+			tasks: [
+				{
+					count: 4L
+					id: "0EF1A21B30EA1CBA"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "minecraft:logs"
+						}
+					}
+					title: "Any #minecraft:logs"
+					type: "item"
+					weak_nbt_match: true
+				}
+				{
+					id: "0CEBB13B3988EF5E"
+					type: "custom"
+				}
+			]
+			title: "Got Wood?"
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["351DA5434BA19853"]
+			id: "2766DBF048D3D2D7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1620D6060C4FF894"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "You know the drill."
+			tasks: [{
+				count: 8L
+				id: "5A4E30812AF2043A"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+				title: "Any #forge:cobblestone"
+				type: "item"
+			}]
+			title: "Mine, craft"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2766DBF048D3D2D7"]
+			id: "1D6073E0B689902F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "23614DDF2035D35B"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "Let him cook."
+			tasks: [{
+				id: "48176BE8BB044448"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["351DA5434BA19853"]
+			id: "5A9A5CD4291E7EFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D7FC733434C6755"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "Make a bed."
+			tasks: [{
+				id: "2E7FBC07CB52CC22"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:beds"
+					}
+				}
+				title: "Any #minecraft:beds"
+				type: "item"
+			}]
+			title: "Bed or be ready"
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1D6073E0B689902F"]
+			id: "462144ECD0E5EF96"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CB5AD45E7CC10CF"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			tasks: [{
+				count: 9L
+				id: "328D207B8DC8A8BB"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1D6073E0B689902F"]
+			id: "5F3129FDEF8C347B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64D5358D19EE5439"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			tasks: [{
+				count: 16L
+				id: "7F58DCD1E5BD9B79"
+				item: "minecraft:copper_ingot"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["462144ECD0E5EF96"]
+			id: "73E31FD9F9725BDA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0667736C0EAAD733"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "631CFA64190DC0C7"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AA73C0AF695FFF5"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "431756739EA2EB36"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0978CBC1619A0315"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1AC353C6A81D0629"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Iron tools"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["462144ECD0E5EF96"]
+			id: "15C976B7A8BCE9A2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "578873F7F19803AE"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "78E6626756440222"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5207CB90F32EF34C"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "04F859FADB77BA12"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F572976C1BEF216"
+					item: {
+						Count: 1b
+						id: "minecraft:iron_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Iron Armour"
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"2766DBF048D3D2D7"
+				"235D613CE6D07A44"
+			]
+			hide_details_until_startable: false
+			id: "0EF1CC7B725A24B2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "310F1ED134D41F27"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4B42A90EB70DE8DF"
+				item: "botania:apothecary_default"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["73E31FD9F9725BDA"]
+			id: "1390E78D6F5CF301"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F48405510774E33"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "Jesse we need to cook!"
+			tasks: [{
+				count: 32L
+				id: "243FA611BA53332D"
+				item: "minecraft:redstone"
+				type: "item"
+			}]
+			title: "Red Dust"
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["73E31FD9F9725BDA"]
+			id: "60E4A8DA8C3488DB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32AA307A55E77D32"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [{
+				id: "79FB95513F998A85"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			title: "You could die for it."
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["60E4A8DA8C3488DB"]
+			id: "6E3D225528BDB588"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "163A41427760FA9B"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "5AD0E7355555EC0A"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D399BF571019803"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "45FD3D43D53461C9"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11C2E56EEB6CD1EC"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Diamond Armour"
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["60E4A8DA8C3488DB"]
+			id: "1C090AFA80269324"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "21B28FA2BC0ACD07"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "3C5C47A1BA5EE86F"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "54D7F142BADFFFAF"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "728863DC246681A5"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_axe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1B8E15CEABB445F0"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_shovel"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "397E69E2CE724490"
+					item: {
+						Count: 1b
+						id: "minecraft:diamond_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Diamond Tools"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1C090AFA80269324"]
+			id: "63A005EFC6BDE254"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F10D52829ADE54B"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			subtitle: "Paxels are useful."
+			tasks: [{
+				id: "1C63BD1A21157354"
+				item: {
+					Count: 1b
+					id: "mekanismtools:diamond_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["462144ECD0E5EF96"]
+			id: "2522A603A8943843"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "359AF1ADE8DC48F9"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			subtitle: "This is a bucket, not a hint."
+			tasks: [{
+				id: "4671263536DAD5B5"
+				item: "minecraft:bucket"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "0754EE93BE9EA641"
+			invisible: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "641C450435CA2705"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "03B3FB41D6904601"
+					item: "minecraft:cod_bucket"
+					type: "item"
+				}
+				{
+					id: "4ABBD83E2BE25557"
+					item: "minecraft:salmon_bucket"
+					type: "item"
+				}
+				{
+					id: "588697F027F92F11"
+					item: "minecraft:tropical_fish_bucket"
+					type: "item"
+				}
+				{
+					id: "0CC95000DAE7B9A2"
+					item: "minecraft:pufferfish_bucket"
+					type: "item"
+				}
+				{
+					id: "3764098529DB17BA"
+					item: "minecraft:axolotl_bucket"
+					type: "item"
+				}
+				{
+					id: "06C8F1241C40D84D"
+					item: "minecraft:tadpole_bucket"
+					type: "item"
+				}
+				{
+					id: "11583331116FA7F2"
+					item: "quark:crab_bucket"
+					type: "item"
+				}
+			]
+			title: "True Tactical Fisher"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5F3129FDEF8C347B"]
+			id: "12A6A846973D6864"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B285F48EC1EEEF6"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "Let's hope it doesn't rust..."
+			tasks: [
+				{
+					id: "3F5D824ED62B216C"
+					item: {
+						Count: 1b
+						id: "create:copper_diving_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1764C56F7A7665FD"
+					item: {
+						Count: 1b
+						id: "create:copper_diving_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4C8A2B7E02565D17"
+					item: {
+						Count: 1b
+						id: "create:copper_backtank"
+						tag: {
+							Air: 900
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Copper Diving Gear"
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["73E31FD9F9725BDA"]
+			id: "3DB067CC685C11DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "565E5ADED9D9AD3F"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			subtitle: "Who's the piglin now?"
+			tasks: [{
+				id: "08869F06CC382BA2"
+				item: "minecraft:gold_ingot"
+				type: "item"
+			}]
+			title: "Ooh, shiny!"
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"I just wanted to include a game reference and was out of creative juices. "
+				"If you get the reference you're cool :D"
+			]
+			id: "651A5F1CD6351C87"
+			invisible: true
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4340F84F0D805AF8"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			subtitle: "\"Reward the player for everything, no matter how small.\""
+			tasks: [{
+				count: 2304L
+				id: "4A685A1C2ADE9195"
+				item: "minecraft:dirt"
+				type: "item"
+			}]
+			title: "Why though???"
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2766DBF048D3D2D7"]
+			id: "4B1AA2020DD703EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78B32DC9F9597533"
+				table_id: 1294816638653244844L
+				type: "random"
+			}]
+			subtitle: "Shh... Techno needs cobblestone."
+			tasks: [{
+				entity: "quark:stoneling"
+				id: "07F6CD9744CCEF9A"
+				type: "kill"
+				value: 10L
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6E3D225528BDB588"
+				"1C090AFA80269324"
+			]
+			id: "6973E185B3644CC2"
+			tasks: [{
+				id: "7690700F6A54A146"
+				structure: "betteroceanmonuments:ocean_monument"
+				type: "structure"
+			}]
+			title: "Find an Ocean Monument"
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6973E185B3644CC2"]
+			id: "1B6663E77E95389D"
+			subtitle: "Bad with technology."
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				id: "2D9956B6E014CE86"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Elder Guardian"
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6973E185B3644CC2"]
+			id: "37454469106A6676"
+			subtitle: "Use your pointy pokey stabby thing."
+			tasks: [{
+				entity: "minecraft:guardian"
+				id: "3F10B456D18955E1"
+				type: "kill"
+				value: 15L
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6973E185B3644CC2"]
+			id: "1ED022DEA829A3C9"
+			tasks: [{
+				count: 4L
+				id: "1598A67ACF88717E"
+				item: "minecraft:sponge"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1D6073E0B689902F"]
+			id: "718A24B14C064AA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50139CAFE867BC93"
+				table_id: 5084030084266740114L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "3DA90C0273050281"
+					item: "minecraft:blast_furnace"
+					type: "item"
+				}
+				{
+					id: "7CBAAAEA2E7660C6"
+					item: "minecraft:smoker"
+					type: "item"
+				}
+				{
+					id: "15ADDE85567860E5"
+					item: "quark:deepslate_furnace"
+					type: "item"
+				}
+				{
+					id: "5EF90BB101711930"
+					item: "quark:blackstone_furnace"
+					type: "item"
+				}
+			]
+			title: "Moar Furnaces"
+			x: -1.5d
+			y: 1.5d
+		}
+	]
+	title: "Overworld"
+}
