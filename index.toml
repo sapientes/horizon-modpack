@@ -358,7 +358,7 @@ hash = "3e96d7f471846a8349c319e8ea876146e8216530b977f830c86b016b5a76ab89"
 
 [[files]]
 file = "config/botania-common.toml"
-hash = "4ac436b7706f723d5e230b192d1bd35c4058b0f3d64254523859f7e4c1efd4f8"
+hash = "8bf2f72a1db72563d8692df97e9161801171152c2052a80ced927206c1ddb26c"
 
 [[files]]
 file = "config/capes.json5"
@@ -486,7 +486,7 @@ hash = "d06bfeade40acf1b353b1ac37c02e7c74ac895334d9909ba673d5a3331036292"
 
 [[files]]
 file = "config/inventorio.json"
-hash = "d1f002a2cc0b275d3f76e6442bf0c8cafa0b5983f6d5242227865a5063c13318"
+hash = "8840555b6634015466900511ba056f9ee75e4a37f64258e0bbb8741c1f8b05b2"
 
 [[files]]
 file = "config/inventorio_shared.json"
@@ -494,7 +494,7 @@ hash = "d7f148d6294f9cf87881d64a3282ff61c8afd21ff3197017817a99a30a69dd89"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "3ee038d410676efecffb214443aa45cd5b567c5cc564ad0ce2caf2fa39453f5a"
+hash = "5c2f3539417884d133ad4393db4c83a8a313554cb127f39c62db7506c0cec9b8"
 
 [[files]]
 file = "config/jade/hide-blocks-1902.json"
@@ -893,11 +893,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "49d85ef3ee61d410392779cf4d5d430055e862e31ef0005709c0edcbc45e3b07"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "074c1b89e8555749f2d0a24b7586fa123c4da39a4126d4dde683505ba6558ba7"
 metafile = true
 
 [[files]]

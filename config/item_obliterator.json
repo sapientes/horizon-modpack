@@ -53,7 +53,10 @@
     "enemyexpansion:meathead_helmet",
     "enemyexpansion:horsehead_helmet",
     "enemyexpansion:heatbiter_helmet",
-    "enemyexpansion:silverhead_helmet"
+    "enemyexpansion:silverhead_helmet",
+    "botania:lens_mine",
+    "botania:ender_hand",
+    "mekanism:atomic_disassembler"
   ],
   "only_disable_interactions": [
     "//Items here will not be able to be right-clicked (Interact)",
