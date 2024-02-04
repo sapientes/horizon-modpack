@@ -1,20 +1,20 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "ars_nouveau"
+	filename: "create"
 	group: "5C79B771F06F8B0C"
-	id: "04BA464C8595A184"
-	order_index: 3
+	id: "623EE7E0D8CFFC8C"
+	order_index: 0
 	quest_links: [ ]
 	quests: [{
-		id: "5FECC23908249D2A"
+		id: "7E33BB0F961DFBC0"
 		tasks: [{
-			id: "768F6FE0D879F003"
-			item: "ars_nouveau:source_gem"
+			id: "34D83ADB34C2AA88"
+			item: "create:andesite_alloy"
 			type: "item"
 		}]
 		x: 0.0d
 		y: 0.0d
 	}]
-	title: "Ars Nouveau"
+	title: "Create"
 }

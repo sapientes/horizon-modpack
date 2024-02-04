@@ -1,0 +1,288 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end"
+	group: "7D59D3DF3DF97CC7"
+	id: "3FD519760131B74C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0942DD7FFFD45B98"]
+			id: "10B1B6BB7642326C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B1CBB01CA2F3D17"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "29EB1BCE413A62BB"
+				type: "dimension"
+			}]
+			title: "Go to the end."
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["10B1B6BB7642326C"]
+			id: "40ECF534A9AA658C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2E6C43CE7CE43551"
+				table_id: 2058412590720375417L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				id: "2F2D0699C5376354"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D818E94896FB0A3"]
+			id: "44DB8EA69AE33E17"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44319C74D515A499"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0777C975F195C05B"
+				structure: "#minecraft:end_city"
+				type: "structure"
+			}]
+			title: "End City time!"
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["40ECF534A9AA658C"]
+			id: "2D818E94896FB0A3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46E69B33E36C8BE5"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "minecraft:end/enter_end_gateway"
+				criterion: ""
+				id: "68B4BC26CBE1B586"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["44DB8EA69AE33E17"]
+			id: "38F7EF12CF349019"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79D00B10F9674BE4"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecraft:shulker"
+				id: "5B62789CBA75A662"
+				type: "kill"
+				value: 25L
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["44DB8EA69AE33E17"]
+			id: "41DE56641BC25AEB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "714AF465B64B9306"
+				table_id: 2058412590720375417L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4BC7454E67A8CFE0"
+				item: {
+					Count: 1b
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D818E94896FB0A3"]
+			id: "4DFFDD6394287EF0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "30FBA24E8DBD9A13"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "phantasm:enter_dreaming_den"
+				criterion: ""
+				id: "1E2A403097315CA4"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4DFFDD6394287EF0"]
+			id: "79FEED6B9289FF1E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "218F8D1D7D7AD0A4"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "phantasm:crystie"
+				id: "7498512915518BF2"
+				type: "kill"
+				value: 25L
+			}]
+			x: 2.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["4DFFDD6394287EF0"]
+			id: "393BD3C0E9F65662"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "448D4F9DBF9A8D93"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "endlessbiomes:anklor"
+				id: "417A3979CAFFAD3F"
+				type: "kill"
+				value: 25L
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["44DB8EA69AE33E17"]
+			id: "68866A1BEA396C66"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "137E02303663E358"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			subtitle: "Found in end city chests."
+			tasks: [{
+				id: "21D6BE90CBEFE63E"
+				item: "phantasm:stellium_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["40ECF534A9AA658C"]
+			id: "4C6B4BB35EAF311E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B4381B65A117349"
+				table_id: 2058412590720375417L
+				type: "random"
+			}]
+			shape: "pentagon"
+			size: 1.5d
+			subtitle: "Dropped by a Warden."
+			tasks: [{
+				id: "6AB39D18C6B83BEE"
+				item: "deeperdarker:heart_of_the_deep"
+				type: "item"
+			}]
+			x: -2.25d
+			y: -1.5d
+		}
+		{
+			dependencies: ["10B1B6BB7642326C"]
+			id: "179D052291BD6104"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02F25922B0543E7E"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				id: "12CDA66AE7B7A4FD"
+				item: "botania:ender_air_bottle"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2D818E94896FB0A3"]
+			id: "37A996B01540B13C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "196392E49C643F76"
+				table_id: 2058412590720375417L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "endlessbiomes:riftite_sentinel"
+				id: "34F74372766E7C7A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D818E94896FB0A3"]
+			id: "332FD7FF88151BAB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5DA380553900F0"
+				table_id: 2058412590720375417L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "endlessbiomes:radon_sentinel"
+				id: "5337F451ADCFDC8D"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["10B1B6BB7642326C"]
+			id: "21F0A3B4255378A2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D2EF5765318CF06"
+				table_id: 3598821212813657332L
+				type: "random"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				id: "19C4AC5FC6764868"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+	]
+	title: "End"
+}
