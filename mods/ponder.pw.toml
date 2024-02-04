@@ -1,6 +1,6 @@
 name = "Ponder for KubeJS"
 filename = "ponderjs-1.19.2-1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/5A34Stj8/versions/4MnNfUbP/ponderjs-1.19.2-1.2.0.jar"

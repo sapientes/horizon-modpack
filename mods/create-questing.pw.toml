@@ -1,6 +1,6 @@
 name = "Create Questing"
 filename = "Create_Questing-FORGE-1.19.2-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jUlR3XZM/versions/QXBmxVDA/Create_Questing-FORGE-1.19.2-1.0.0.jar"

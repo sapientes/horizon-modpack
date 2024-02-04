@@ -7,3 +7,5 @@ LICENSE
 README.md
 .gitmodules
 .github
+fix_envs.sh
+
