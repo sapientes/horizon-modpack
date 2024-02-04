@@ -67,3 +67,8 @@ flavors = ["client_only_off", "client_only_on"]
 [metafile.whats-that-slot]
 flavors = ["client_only_off", "client_only_on"]
 
+[metafile.obscure-api]
+flavors = ["client_only_off", "client_only_on"]
+
+[metafile.loot-journal]
+flavors = ["client_only_off", "client_only_on"]
