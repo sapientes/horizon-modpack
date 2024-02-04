@@ -1,0 +1,15 @@
+{
+	id: "31F194D35FE604F4"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ count: 32, item: "minecraft:end_stone", random_bonus: 32 }
+		{ count: 16, item: "endlessbiomes:twisted_stem", random_bonus: 8 }
+		{ count: 2, item: "minecraft:chorus_flower", random_bonus: 4 }
+		{ count: 24, item: "phantasm:pream_berry", random_bonus: 8 }
+		{ count: 16, item: "minecraft:ender_pearl" }
+		{ count: 4, item: "endlessbiomes:penumbral_fungus" }
+		{ count: 4, item: "phantasm:pream_sapling" }
+	]
+	title: "End Low-Tier Quest Rewards"
+}

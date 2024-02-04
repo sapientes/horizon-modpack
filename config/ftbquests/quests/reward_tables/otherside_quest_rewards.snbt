@@ -1,0 +1,38 @@
+{
+	id: "7E1756431D472978"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ item: "deeperdarker:soul_crystal" }
+		{ count: 15, item: "minecraft:sculk_catalyst" }
+		{ count: 20, item: "minecraft:sculk_sensor" }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "deeperdarker:sculk_smite"
+						lvl: 5s
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:enchanted_book"
+				tag: {
+					StoredEnchantments: [{
+						id: "deeperdarker:catalysis"
+						lvl: 3s
+					}]
+				}
+			}
+		}
+		{ item: "deeperdarker:reinforced_echo_shard", weight: 0.6f }
+		{ count: 4, item: "minecraft:echo_shard", random_bonus: 4 }
+		{ item: "deeperdarker:sculk_transmitter", weight: 0.5f }
+	]
+	title: "Otherside Quest Rewards"
+}

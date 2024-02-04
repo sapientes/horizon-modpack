@@ -1,0 +1,89 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "boss_rush"
+	group: "7D59D3DF3DF97CC7"
+	id: "6327D02556BDC84C"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "494EEA826A58BE39"
+			tasks: [{
+				entity: "botania:doppleganger"
+				id: "22D40E4DE48ECBE9"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "649BC809A3140252"
+			tasks: [{
+				entity: "sanitydim:rotting_stalker"
+				id: "6C8B52B19C7E8F91"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"494EEA826A58BE39"
+				"649BC809A3140252"
+				"21BDBE5739F438B8"
+				"509F9F36EFF7ED00"
+				"40ECF534A9AA658C"
+				"543009162ACBE720"
+				"6058D59D9305FEAF"
+				"332FD7FF88151BAB"
+				"37A996B01540B13C"
+				"1B6663E77E95389D"
+				"4C6B4BB35EAF311E"
+				"59CBEA7FCBB4F695"
+			]
+			id: "2671D52BF6E364E6"
+			tasks: [{
+				id: "2AA4BF987B0350E8"
+				title: "Congrats on finishing OPLS!"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "21BDBE5739F438B8"
+			tasks: [
+				{
+					entity: "enemyexpansion:trollenraged"
+					id: "5F6AFA2164110247"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "enemyexpansion:troll"
+					id: "3E2CD8006B4202E5"
+					type: "kill"
+					value: 1L
+				}
+			]
+			title: "Kill Trolls"
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "509F9F36EFF7ED00"
+			tasks: [{
+				entity: "sanitydim:sneaking_terror"
+				id: "396EE9A274A543EC"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+	]
+	title: "Boss Rush!"
+}

@@ -1,0 +1,70 @@
+{
+	id: "52A1B0BD67B24331"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:brick"
+				tag: {
+					display: {
+						Name: "[{\"text\":\"Baby Brick\"}]"
+					}
+				}
+			}
+			title: "Baby Brick"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:nether_brick"
+				tag: {
+					display: {
+						Name: "[{\"text\":\"Baby Nether Brick\"}]"
+					}
+				}
+			}
+			title: "Baby Nether Brick"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "deeperdarker:grime_brick"
+				tag: {
+					display: {
+						Name: "[{\"text\":\"Baby Grime Brick\"}]"
+					}
+				}
+			}
+			title: "Baby Grime Brick"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "supplementaries:ash_brick"
+				tag: {
+					display: {
+						Name: "[{\"text\":\"Baby Ash Brick\"}]"
+					}
+				}
+			}
+			title: "Baby Ash Brick"
+		}
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:brick"
+				tag: {
+					Damage: 10
+					display: {
+						Lore: ["[{\"text\":\"You carry our future, O chosen one.\"}]"]
+						Name: "[{\"text\":\"Baby Holy Brick\"}]"
+					}
+				}
+			}
+			weight: 0.001f
+		}
+	]
+	title: "Baby Brick"
+}

@@ -1,0 +1,25 @@
+{
+	id: "51C68AB5A39D47D2"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ item: "minecraft:netherite_scrap", weight: 0.5f }
+		{ count: 32, item: "minecraft:netherrack", random_bonus: 32 }
+		{ count: 8, item: "minecraft:nether_gold_ore", random_bonus: 16 }
+		{ count: 2, item: "minecraft:crying_obsidian", random_bonus: 4 }
+		{ count: 2, item: "minecraft:crimson_fungus", random_bonus: 8 }
+		{ count: 2, item: "minecraft:warped_fungus", random_bonus: 8 }
+		{
+			item: {
+				Count: 1b
+				id: "minecraft:potion"
+				tag: {
+					Potion: "minecraft:fire_resistance"
+				}
+			}
+			weight: 0.8f
+		}
+		{ count: 4, item: "minecraft:obsidian", random_bonus: 4 }
+	]
+	title: "Nether Low-Tier Random Reward"
+}
