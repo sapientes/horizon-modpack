@@ -1371,6 +1371,11 @@ hash = "b2f950c635cfc63216fdc279d2d3f5d479d73c3729a1d1a555de180e7947c694"
 metafile = true
 
 [[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "b49221b2dfcf57a53bcb0fef8ccecf759f1c418cf27e43125601f1b878a8aaa1"
+metafile = true
+
+[[files]]
 file = "mods/unique-enchantments-base.pw.toml"
 hash = "53c53fd5ab4e8a6b089fa38dcdff296916f964587655d9542485e5b177707c31"
 metafile = true
