@@ -1,0 +1,13 @@
+name = "TheOvergrowth"
+filename = "overgrowth-1.19.2-1.1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bb58ef472ca4e4f05f84ee4a9a19e68ebe6df89"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4575601
+project-id = 714353
