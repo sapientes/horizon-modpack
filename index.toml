@@ -787,7 +787,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-questing.pw.toml"
-hash = "04ecd80c7e5fcf781783626a206b6209841cf5e827c1c857d83867fa6940aedf"
+hash = "1cc6ee75bea667d82b5526fb30a9abde1fad0ac6313bae845389f9c9614717f0"
 metafile = true
 
 [[files]]
@@ -847,7 +847,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "85c48053799956d7c0a905d6d44c64991b8564467efe7bdf053deb9dca20f7ac"
+hash = "06c469593efe0864c59c9c490b7debe2d91bab2c317fb30014401e0a5422d0fa"
 metafile = true
 
 [[files]]
@@ -1037,12 +1037,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6fbf022fda5e7b0715b1a8729ecc9a09121f63244ba3a0f20da97741d3c9195e"
+hash = "f22c5baa35be596f72485c0011c80597d3f2e06492574973912dee5e4aa54cac"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
-hash = "a38693f07c24610244094223c1fe26533f50f2380c1ecc48ac434ad0ea88c9ec"
+hash = "ab01458a890921204efec5eb4589631e9a22ab805bf17be5c1cc1ad00375ffff"
 metafile = true
 
 [[files]]
@@ -1052,7 +1052,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "31c0f0bd6abff0b4b62a2e0104a7cfb7d674cca4779d01cedae6434902d2670c"
+hash = "f23b49d6f2fd03bfa69850bf148523290370cd0896814a3d62a42d48ae4fe4cd"
 metafile = true
 
 [[files]]
@@ -1092,7 +1092,7 @@ metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "bc19526e75297104e087e478a99ca228a0ec2a7d222b15d4d1df0a93b9f7355b"
+hash = "b0a5d48cb833cacb14e9315ef652f44941c490130d33c4765b79e827ec67f803"
 metafile = true
 
 [[files]]
@@ -1257,7 +1257,7 @@ metafile = true
 
 [[files]]
 file = "mods/ponder.pw.toml"
-hash = "01849f5269e9563392b291c8a31594a04853a3124734e5cef7113b3142c03a52"
+hash = "51edae73d022e37e5cc3b535a1712648ff5c0d1c3afe8464b498e71908100623"
 metafile = true
 
 [[files]]
@@ -1472,4 +1472,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "f36f2af2e3d905af566afcd3559351ee804f418b0b53eaf43c5d01ab83d89587"
+hash = "ce61318892444638eaf47649485bd0be4c54701dd785a82b0943348ed2b4d7ce"
