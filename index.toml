@@ -1101,11 +1101,6 @@ hash = "c0c0417ef75c6d3426d726942262c484d915c36668e8110a4e3f2ba610873614"
 metafile = true
 
 [[files]]
-file = "mods/loot-journal.pw.toml"
-hash = "7221d6a35cb33876610e5dbe37c50ce59089bf30c2ad3315622bab48e12123f5"
-metafile = true
-
-[[files]]
 file = "mods/lootjs.pw.toml"
 hash = "9ecd38478aa39dcf8085b0082cc604178444dc65238d8bd1906a5cbc889b1dfe"
 metafile = true
@@ -1213,11 +1208,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d15effac97a99ad09fb2ee01e113722327223e18a3f7a388c8bab0c46559a9ad"
-metafile = true
-
-[[files]]
-file = "mods/obscure-api.pw.toml"
-hash = "eb33e2c8ec06d4242a1fc4bd3c7176754274d3a271d601f853179e75ac134d69"
 metafile = true
 
 [[files]]
