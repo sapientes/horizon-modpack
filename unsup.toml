@@ -22,7 +22,7 @@ flavors = ["client_only_off", "client_only_on"]
 [metafile.eerie-music-forge-fabric]
 flavors = ["client_only_off", "client_only_on"]
 
-[metafile.entity-texture-features]
+[metafile.entitytexturefeatures]
 flavors = ["client_only_off", "client_only_on"]
 
 [metafile.entityculling]

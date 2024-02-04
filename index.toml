@@ -881,11 +881,6 @@ hash = "02c74f526004650bd1c9c4425cb861d60249e997f1ad1c3e481d8635e2db9ba8"
 metafile = true
 
 [[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "e13addb9dde235a557024a2441b9a156c0063c536b9651c68a09d54c32a25074"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
@@ -1472,4 +1467,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "ce61318892444638eaf47649485bd0be4c54701dd785a82b0943348ed2b4d7ce"
+hash = "1b92b3dde72b129880b109f487df5c05a0b7704b00cc201a005cecf9a6b72944"
