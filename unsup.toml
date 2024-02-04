@@ -1,0 +1,69 @@
+[flavor_groups.client_only]
+name = "Client-side exclusive mods"
+description = "QOL client side mods. Selecting this is very much recommended."
+side = "client"
+choices = ["client_only_off", "client_only_on"]
+
+[metafile.autohud]
+flavors = "client_only"
+
+[metafile.betterf3]
+flavors = "client_only"
+
+[metafile.biome_particle_weather]
+flavors = "client_only"
+
+[metafile.capes]
+flavors = "client_only"
+
+[metafile.dynamiccrosshair]
+flavors = "client_only"
+
+[metafile.eerie-music-forge-fabric]
+flavors = "client_only"
+
+[metafile.entity-texture-features]
+flavors = "client_only"
+
+[metafile.entityculling]
+flavors = "client_only"
+
+[metafile.first-person-model]
+flavors = "client_only"
+
+[metafile.fog-looks-good-now]
+flavors = "client_only"
+
+[metafile.modernfix]
+flavors = "client_only"
+
+[metafile.music-manager]
+flavors = "client_only"
+
+[metafile.not-enough-animations]
+flavors = "client_only"
+
+[metafile.notenoughcrashes]
+flavors = "client_only"
+
+[metafile.oculus]
+flavors = "client_only"
+
+[metafile.rubidium-extra]
+flavors = "client_only"
+
+[metafile.rubidium]
+flavors = "client_only"
+
+[metafile.sound-physics-remastered]
+flavors = "client_only"
+
+[metafile.tool-stats]
+flavors = "client_only"
+
+[metafile.travelers-titles]
+flavors = "client_only"
+
+[metafile.whats-that-slot]
+flavors = "client_only"
+
