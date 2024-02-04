@@ -866,11 +866,6 @@ hash = "c7eea73ba247339422f83d3a9c83623563587ebfbfe29e5fc2a9f79e013e57a5"
 metafile = true
 
 [[files]]
-file = "mods/elytra-aeronautics-forge.pw.toml"
-hash = "121926acfdf5a629da0aa6b5e91b55029d3fa5b663e730cc29f24baa84bbfb43"
-metafile = true
-
-[[files]]
 file = "mods/endless-biomes.pw.toml"
 hash = "ec92801dfcbad21116ff9cf1c3659cf699f545ffcd93e088d2a4d3fb7c640e6d"
 metafile = true
