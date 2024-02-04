@@ -577,6 +577,10 @@ file = "config/sanitydim/dimension/example.toml"
 hash = "d1a64dd1237d7f7424a3006f22a2a06f6a578983d997474f600563c1164c9c03"
 
 [[files]]
+file = "config/servercore.toml"
+hash = "7900476dc0252d425f2ce2b24950c1cb813b2e1ba636b494fbbe35484786acf2"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "89e68ff05f630e807b6972c58a8948b0f82818439635fbd482e086845b6e0526"
 
@@ -613,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/advancement-frames.pw.toml"
 hash = "50d4382334c22d9d0026fd28d4889af8c3693f2d59dda2a5e0b8f9e238d9ca93"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "5cc1a00828a8c58da927c7a10f26adfd49f0edb72bc986d0d8c1dac5f58761e3"
 metafile = true
 
 [[files]]
@@ -906,8 +915,18 @@ hash = "51436656f2fbac1996b8b0db1313674727e70dd14ed8e102a4ea8905c82b4860"
 metafile = true
 
 [[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "e001ea41a138e42e5523e69b13523c1ebf76a1633320b3a7942b4eef76d36861"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "ab6d5c5981eb90445718e5224c7e92a04e4f180373b11fc944d7dce43c704318"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "fb43a2bb5fc3c56a05fc8ae902610e5f7ab46f62e58d50b1ec34390ce5698335"
 metafile = true
 
 [[files]]
@@ -1246,6 +1265,11 @@ hash = "8bcdd904b01167fcd6245c6878338b5d4982d8b9ba1ea19aa6b2a44da8cf5ed5"
 metafile = true
 
 [[files]]
+file = "mods/placebo.pw.toml"
+hash = "954c1b5e2a9f16c08027875d6ee536058e617f644e7ed0f83915b4a504015364"
+metafile = true
+
+[[files]]
 file = "mods/ponder.pw.toml"
 hash = "51edae73d022e37e5cc3b535a1712648ff5c0d1c3afe8464b498e71908100623"
 metafile = true
@@ -1316,6 +1340,11 @@ hash = "ac0867d3aa28eb9d3386f0ec155af4b96a208dd3f77e6f1bc6d4d4e061ab3f1b"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "b9b33e6c23108584c838f06a8e870d02c5eafda675670760a353198fb82eda1d"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "6b18e2055cddb936210b4f5a81374e509f32513c2716f7d240647e04b17109aa"
 metafile = true
@@ -1328,6 +1357,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d42a4342778c40d0f1ba9cc3a31ed4834bbaf6dc93aa94f5606f9cad106db1c9"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
 
 [[files]]
