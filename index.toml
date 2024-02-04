@@ -381,312 +381,204 @@ file = "config/forgivingvoid-common.toml"
 hash = "050788b3af93b09e249247bf9ae79f40da7e5986048aa70d3298e23985401e79"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapter_groups.snbt"
-hash = "736d6e0e409e48ba0cdf8a2e33aad518541bc8fb0f7151c192c2840eb651f5d2"
+file = "config/ftbquests/2024-02-04-22-30-58/chapter_groups.snbt"
+hash = "780457c2dc40fb6554c8b7ee0adfb5c406827eceda97a0844d7e693be2dd5283"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/ars_nouveau.snbt"
-hash = "c0766a2e4f4c93cba7ae1fade930ee4a2ab6ce66784fb8af3fe57f12b61e0f0f"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/ars_nouveau.snbt"
+hash = "bf36a0f2300477335170026db602b9079fd9fe9d026189532b43c08f269da357"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/boss_rush.snbt"
-hash = "1aaf0e0a70ffdfa3072b5d62912bbf10432ee5b9cdd8ae5569d03f42aa1ee36d"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/boss_rush.snbt"
+hash = "58ec88e17aed9fbd6e8a05a4f98d39552ab69edd585271b72968f27b3c56588c"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/botania.snbt"
-hash = "63b2542142a3e631a276ab65a0a0dd6964d8ee78de2816fa6459679776f7eee5"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/botania.snbt"
+hash = "df5ef95d4013cb4a85dddd2b28cb22070d99e36ed6e4f957132c7d1cc7458637"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/create.snbt"
-hash = "36b1fc3d08da8bfffad07778fc36f37fab14201f8f509935614f5ec53644ab52"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/create.snbt"
+hash = "b0e8ca1e535bd6c08f6350d62ddaabf3937c2d965e5c2d6de1b0bb3d153190f1"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/damians_challenges_easyish.snbt"
-hash = "75b59b868cae7ec9b9ad0b00cc363ae197e298683cb2245f9c20b7006caa7708"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/damians_challenges_easyish.snbt"
+hash = "164bb2ce46d242f2b7222907acf84af9cbf830e2248933ea740a102c9c7cd6a6"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/end.snbt"
-hash = "2b8431f3a5d8937566403d407c19dc028acf59507c4fe12a104164f2232776e0"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/end.snbt"
+hash = "268fd56011e56f82bf688ffc6d0f3534f9337a023593d187d90008508773f134"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/latets_challenges_whatever_latet_feels_like_today.snbt"
-hash = "42b035dc45bb4d3db75ccba8f0f9afcbbf8eee984c6efb61e5855c273b9389fc"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/latets_challenges_whatever_latet_feels_like_today.snbt"
+hash = "9794e7d080392dc7d00933cf8c06017c9e1ab1395d47e7e4cce6f1bcc1fe9e9b"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/lees_challenges_tea.snbt"
-hash = "a6143f3e1b835e8f3ebcdf6809d2ef144ec73fd5deb64434d2c7eac0956a830d"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/lees_challenges_tea.snbt"
+hash = "d0efdecd23682a5d1a43dfe5528a876e0ebb204204355082a93abcdc02b0db48"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/mekanism.snbt"
-hash = "ecc1e5d5d990c037bd3853bb8642703550bba567fc55afe554aa9bad4ef8d599"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/modpack_info.snbt"
+hash = "2b68a462dc5f08808ecd67bdb8f2f6c8f239c275a038a41d08138e407be939fc"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/modpack_info.snbt"
-hash = "946688e493a7ba26afdbdff8b8b4a582c3af24e923125a2ed4f98aed3974cc64"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/nether.snbt"
+hash = "b289fc5b30eb9a92e34b04f79527a564763ef0b52bb105377d1edd08876b2805"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/nether.snbt"
-hash = "342d555e953a4ccc156cb146efae232c71d699bcd96ff655cb32cee6897d055d"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/otherside.snbt"
+hash = "c4b03160a96833d9975aefae0ae2ca5ba79d9b2413410f4ddf7e45ae38a08908"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/otherside.snbt"
-hash = "bb99680d536f37d052efc251518461d436fa99f454587df7268c559b03949e66"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/overworld.snbt"
+hash = "ee3eeba734ca691ffc0437e1646d86135b8eb7eea2499ea14e3eed349696e6fb"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/overworld.snbt"
-hash = "88723f540ac423213d36780fc8e675698deabdf83afb4a91c887b0f4653e3da7"
+file = "config/ftbquests/2024-02-04-22-30-58/chapters/refined_storage.snbt"
+hash = "a95527b33e0d2d1210c0957af1d9998b9ecd35a2634d9bd77dcd40ed8477497c"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/chapters/refined_storage.snbt"
-hash = "743ca147c15d48c70afd5c8196920cadb07828d20f345e5c840e69b0d89f7c65"
+file = "config/ftbquests/2024-02-04-22-30-58/data.snbt"
+hash = "1478e6ed007ffb13d7d271f7b112bda050ef0e3a06d6f9fb0e68b2e233a6b370"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/data.snbt"
-hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/baby_brick.snbt"
+hash = "4943390c752cc06086a995ed2cae5f14d124660a47d67cf3d6254c47341328d9"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/baby_brick.snbt"
-hash = "fef5b6304b953291e458d98dc4fd26ea12571c623a45e436a67b1f30507ec98a"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/create_random_rewards.snbt"
+hash = "134f6f5093f9fa33d78632b2ab1e15b8480be89cdde74c3f299a43cab1e24de7"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/create_random_rewards.snbt"
-hash = "11487b996af47d5c3de256036b1ca7306610d8ee9c619b9d1fdc8b5722cc52d6"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/end_hightier_quest_rewards.snbt"
+hash = "456273dfd49888a41688f09f361248bd6e070440d496bd243a26e5cdf487671e"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/end_hightier_quest_rewards.snbt"
-hash = "439f415e1498010cdd0cdbbdef4152ae0e55c669d3692b96fb5c87a88e438649"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/end_lowtier_quest_rewards.snbt"
+hash = "f6bdc32ed473611588d224a148c3182c27aa41f3039564fb7ead9f78aaf00f20"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/end_lowtier_quest_rewards.snbt"
-hash = "d2467ea8cf8d981edfc413059f88d19222342fc5f32907dcee031cf729eaf8f9"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/lowtier_random_reward.snbt"
+hash = "1933bd529a6536f88cf21a281301498d3c91bc16601205035bc2e2618c5512ce"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/lowtier_random_reward.snbt"
-hash = "c6eab523e70b2bdb89cb30585e66f07c711cf2603f781b896633a375585e84c8"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/midtier_random_reward.snbt"
+hash = "ab93a60250c5223aa888f963d8b3b6517d942a57a35d8aed8bca0a74e73830d1"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/midtier_random_reward.snbt"
-hash = "69c15e3c624656eb715b1e380f88b23bcaeae8ebb163c4d4e2d3899318a4feed"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/nether_hightier_random_reward.snbt"
+hash = "5e360f0a53ff89ae75a85f4a03680894f235000e1eb3da0f84300ea83b41abb2"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/nether_hightier_random_reward.snbt"
-hash = "e412ddf4df16bb74512c5cb2f23d3f636f30fcf12e85c381a68038fbf9ce8a39"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/nether_lowtier_random_reward.snbt"
+hash = "b84a45bea1926d9a4eae95bed8df8e6a70e0fdfe6cf45987e31288f7ed9abd5d"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/nether_lowtier_random_reward.snbt"
-hash = "81d8c24db46d9f1352cd98af10ff1fa6111f3be5c9bfa30e33ea1bb0f5214927"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/otherside_quest_rewards.snbt"
+hash = "2e7321a0eb0eb17be0ee2e4ed2cc8cb63976c2c631b31b26b8ef26b7bfca83dd"
 
 [[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/otherside_quest_rewards.snbt"
-hash = "4dffcabf79be11ee448dc93f56862ad6d7b463109db7ec3dae369468e416b2d2"
-
-[[files]]
-file = "config/ftbquests/2024-01-25-15-30-29/reward_tables/wood_quest.snbt"
-hash = "d06bfeade40acf1b353b1ac37c02e7c74ac895334d9909ba673d5a3331036292"
+file = "config/ftbquests/2024-02-04-22-30-58/reward_tables/wood_quest.snbt"
+hash = "2ae4228ecce7781f7bc96985bc4da6bc734a14a5a69ee55caae20537e712661a"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "780457c2dc40fb6554c8b7ee0adfb5c406827eceda97a0844d7e693be2dd5283"
 
 [[files]]
-file = "config/ftbquests/quests/chapter_groups.snbt.orig"
-hash = "736d6e0e409e48ba0cdf8a2e33aad518541bc8fb0f7151c192c2840eb651f5d2"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/ars_nouveau.snbt"
 hash = "bf36a0f2300477335170026db602b9079fd9fe9d026189532b43c08f269da357"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/ars_nouveau.snbt.orig"
-hash = "c0766a2e4f4c93cba7ae1fade930ee4a2ab6ce66784fb8af3fe57f12b61e0f0f"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/boss_rush.snbt"
 hash = "58ec88e17aed9fbd6e8a05a4f98d39552ab69edd585271b72968f27b3c56588c"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/boss_rush.snbt.orig"
-hash = "1aaf0e0a70ffdfa3072b5d62912bbf10432ee5b9cdd8ae5569d03f42aa1ee36d"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/botania.snbt"
 hash = "df5ef95d4013cb4a85dddd2b28cb22070d99e36ed6e4f957132c7d1cc7458637"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/botania.snbt.orig"
-hash = "63b2542142a3e631a276ab65a0a0dd6964d8ee78de2816fa6459679776f7eee5"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/create.snbt"
 hash = "b0e8ca1e535bd6c08f6350d62ddaabf3937c2d965e5c2d6de1b0bb3d153190f1"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/create.snbt.orig"
-hash = "36b1fc3d08da8bfffad07778fc36f37fab14201f8f509935614f5ec53644ab52"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/damians_challenges_easyish.snbt"
 hash = "164bb2ce46d242f2b7222907acf84af9cbf830e2248933ea740a102c9c7cd6a6"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/damians_challenges_easyish.snbt.orig"
-hash = "75b59b868cae7ec9b9ad0b00cc363ae197e298683cb2245f9c20b7006caa7708"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/end.snbt"
 hash = "268fd56011e56f82bf688ffc6d0f3534f9337a023593d187d90008508773f134"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/end.snbt.orig"
-hash = "2b8431f3a5d8937566403d407c19dc028acf59507c4fe12a104164f2232776e0"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/latets_challenges_whatever_latet_feels_like_today.snbt"
 hash = "9794e7d080392dc7d00933cf8c06017c9e1ab1395d47e7e4cce6f1bcc1fe9e9b"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/latets_challenges_whatever_latet_feels_like_today.snbt.orig"
-hash = "42b035dc45bb4d3db75ccba8f0f9afcbbf8eee984c6efb61e5855c273b9389fc"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/lees_challenges_tea.snbt"
 hash = "d0efdecd23682a5d1a43dfe5528a876e0ebb204204355082a93abcdc02b0db48"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/lees_challenges_tea.snbt.orig"
-hash = "a6143f3e1b835e8f3ebcdf6809d2ef144ec73fd5deb64434d2c7eac0956a830d"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/mekanism.snbt.orig"
-hash = "ecc1e5d5d990c037bd3853bb8642703550bba567fc55afe554aa9bad4ef8d599"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/modpack_info.snbt"
 hash = "2b68a462dc5f08808ecd67bdb8f2f6c8f239c275a038a41d08138e407be939fc"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/modpack_info.snbt.orig"
-hash = "946688e493a7ba26afdbdff8b8b4a582c3af24e923125a2ed4f98aed3974cc64"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/nether.snbt"
 hash = "b289fc5b30eb9a92e34b04f79527a564763ef0b52bb105377d1edd08876b2805"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/nether.snbt.orig"
-hash = "342d555e953a4ccc156cb146efae232c71d699bcd96ff655cb32cee6897d055d"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/otherside.snbt"
 hash = "c4b03160a96833d9975aefae0ae2ca5ba79d9b2413410f4ddf7e45ae38a08908"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/otherside.snbt.orig"
-hash = "bb99680d536f37d052efc251518461d436fa99f454587df7268c559b03949e66"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/overworld.snbt"
 hash = "ee3eeba734ca691ffc0437e1646d86135b8eb7eea2499ea14e3eed349696e6fb"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/overworld.snbt.orig"
-hash = "88723f540ac423213d36780fc8e675698deabdf83afb4a91c887b0f4653e3da7"
-
-[[files]]
 file = "config/ftbquests/quests/chapters/refined_storage.snbt"
 hash = "a95527b33e0d2d1210c0957af1d9998b9ecd35a2634d9bd77dcd40ed8477497c"
-
-[[files]]
-file = "config/ftbquests/quests/chapters/refined_storage.snbt.orig"
-hash = "743ca147c15d48c70afd5c8196920cadb07828d20f345e5c840e69b0d89f7c65"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
 hash = "1478e6ed007ffb13d7d271f7b112bda050ef0e3a06d6f9fb0e68b2e233a6b370"
 
 [[files]]
-file = "config/ftbquests/quests/data.snbt.orig"
-hash = "4da9a893ddd5672427a9604000b1f708344512ea755dcc9d0c3fc2345c452dd1"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/baby_brick.snbt"
 hash = "4943390c752cc06086a995ed2cae5f14d124660a47d67cf3d6254c47341328d9"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/baby_brick.snbt.orig"
-hash = "fef5b6304b953291e458d98dc4fd26ea12571c623a45e436a67b1f30507ec98a"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/create_random_rewards.snbt"
 hash = "134f6f5093f9fa33d78632b2ab1e15b8480be89cdde74c3f299a43cab1e24de7"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/create_random_rewards.snbt.orig"
-hash = "11487b996af47d5c3de256036b1ca7306610d8ee9c619b9d1fdc8b5722cc52d6"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/end_hightier_quest_rewards.snbt"
 hash = "456273dfd49888a41688f09f361248bd6e070440d496bd243a26e5cdf487671e"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/end_hightier_quest_rewards.snbt.orig"
-hash = "439f415e1498010cdd0cdbbdef4152ae0e55c669d3692b96fb5c87a88e438649"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/end_lowtier_quest_rewards.snbt"
 hash = "f6bdc32ed473611588d224a148c3182c27aa41f3039564fb7ead9f78aaf00f20"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/end_lowtier_quest_rewards.snbt.orig"
-hash = "d2467ea8cf8d981edfc413059f88d19222342fc5f32907dcee031cf729eaf8f9"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/lowtier_random_reward.snbt"
 hash = "1933bd529a6536f88cf21a281301498d3c91bc16601205035bc2e2618c5512ce"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/lowtier_random_reward.snbt.orig"
-hash = "c6eab523e70b2bdb89cb30585e66f07c711cf2603f781b896633a375585e84c8"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/midtier_random_reward.snbt"
 hash = "ab93a60250c5223aa888f963d8b3b6517d942a57a35d8aed8bca0a74e73830d1"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/midtier_random_reward.snbt.orig"
-hash = "69c15e3c624656eb715b1e380f88b23bcaeae8ebb163c4d4e2d3899318a4feed"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/nether_hightier_random_reward.snbt"
 hash = "5e360f0a53ff89ae75a85f4a03680894f235000e1eb3da0f84300ea83b41abb2"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/nether_hightier_random_reward.snbt.orig"
-hash = "e412ddf4df16bb74512c5cb2f23d3f636f30fcf12e85c381a68038fbf9ce8a39"
 
 [[files]]
 file = "config/ftbquests/quests/reward_tables/nether_lowtier_random_reward.snbt"
 hash = "b84a45bea1926d9a4eae95bed8df8e6a70e0fdfe6cf45987e31288f7ed9abd5d"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/nether_lowtier_random_reward.snbt.orig"
-hash = "81d8c24db46d9f1352cd98af10ff1fa6111f3be5c9bfa30e33ea1bb0f5214927"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/otherside_quest_rewards.snbt"
 hash = "2e7321a0eb0eb17be0ee2e4ed2cc8cb63976c2c631b31b26b8ef26b7bfca83dd"
 
 [[files]]
-file = "config/ftbquests/quests/reward_tables/otherside_quest_rewards.snbt.orig"
-hash = "4dffcabf79be11ee448dc93f56862ad6d7b463109db7ec3dae369468e416b2d2"
-
-[[files]]
 file = "config/ftbquests/quests/reward_tables/wood_quest.snbt"
 hash = "2ae4228ecce7781f7bc96985bc4da6bc734a14a5a69ee55caae20537e712661a"
-
-[[files]]
-file = "config/ftbquests/quests/reward_tables/wood_quest.snbt.orig"
-hash = "d06bfeade40acf1b353b1ac37c02e7c74ac895334d9909ba673d5a3331036292"
 
 [[files]]
 file = "config/inventorio.json"
