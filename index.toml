@@ -993,11 +993,6 @@ hash = "65fec95b6004e5b98c19b4eb1be6f3d6031d39b195dcbcd60c4537169a2f2c30"
 metafile = true
 
 [[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "d45a2664ef3dd5c53e14191f2837be634200c0e1a5a801ac87c6492a4e6de1ba"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "f30dc5b64b12df077cabf15d38ad1480f5459a8025de2d7ee71232d1dcaf383a"
 metafile = true
