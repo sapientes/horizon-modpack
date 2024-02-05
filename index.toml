@@ -914,7 +914,7 @@ metafile = true
 
 [[files]]
 file = "mods/akashic-tome.pw.toml"
-hash = "4c21bfaee9c59de2c1ce01a3004f2e47de7775c2f0043773ed435b7852be929c"
+hash = "bf970e4c707441fcbd26f88c3fdc2a51df59b4e8ae555977e8a80c3261892aa9"
 metafile = true
 
 [[files]]
@@ -1119,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "8f3892eb4cafc989e9d8b1f5be419aded1a06e850671fecc8d9e18bc810b3a6d"
+hash = "f33cb1fddc10a8e41fb2c8180f4c320c22e92d9c99f214e536c2a522ed29b0be"
 metafile = true
 
 [[files]]
@@ -1134,7 +1134,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "7d5435e8286c168e5fe6e46b9609e950b688216eb0b3c58b013b06d6a1116080"
+hash = "e715503899e389e0d27baf13447a9e10d195f08cdf52d24b719de376e92c36b1"
 metafile = true
 
 [[files]]
@@ -1174,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/enemy-expansion.pw.toml"
-hash = "02c74f526004650bd1c9c4425cb861d60249e997f1ad1c3e481d8635e2db9ba8"
+hash = "4a1415dbfcaf06a674f59fd741f36f5a353918691e7c463e8621b94b11e37e11"
 metafile = true
 
 [[files]]
@@ -1184,12 +1184,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49d85ef3ee61d410392779cf4d5d430055e862e31ef0005709c0edcbc45e3b07"
+hash = "d1d58ddfd0b9685b376cbcb85bc0b800251287d1b4624ec48ab66aec1490c770"
 metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "3dead218b3b7c3338e570c83a8d45d8fc6b62ca99f04d738c33dc808133c2a80"
+hash = "9e8aead97ebf44c9526b8ce103b2d0087a9e72bd3b4620b2d8c67169ba391ee8"
 metafile = true
 
 [[files]]
@@ -1229,7 +1229,7 @@ metafile = true
 
 [[files]]
 file = "mods/first-person-model.pw.toml"
-hash = "f792636de47ea829ccd10b46e8e122ea4262de7586aa23c8067bbb6705ac1cad"
+hash = "1a9c4c79ab21156c23c9dea24c720857e995eccde8a7a0d22bfd62adee3da747"
 metafile = true
 
 [[files]]
@@ -1429,7 +1429,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "d646321337ce0b0a5998d5e7696d0a0b220ebd7359f25ccf78ef1b9083c2e4aa"
+hash = "0d77de9491fb2a87307765d0020fa690bfb4b5c121642a831a2d6ec5409a552c"
 metafile = true
 
 [[files]]
@@ -1449,7 +1449,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "91c6d641b6a4573a5998f7bc2ff1ef95b7ad9811c6ab515e642aae90c610ce05"
+hash = "05454aa444f0c2eabd96ed03510a549c678e32b08acf0d62522e8d3b5101b7fe"
 metafile = true
 
 [[files]]
@@ -1459,7 +1459,7 @@ metafile = true
 
 [[files]]
 file = "mods/morph-o-tool.pw.toml"
-hash = "a5862796543fa9c88755a666fafde5e36c10e3269469f787f6d9079a2161c652"
+hash = "70cfdfde588a2249ae0288aca3320ec5acde348e158c4bb1b61fcb5687cf4065"
 metafile = true
 
 [[files]]
@@ -1664,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "3836a80bc2aa269d72d864eb0d3a23b664e9c52c6b17d9883d10788bd5b3b624"
+hash = "724bbf2b8dae823a5f017739e00086edad5394d252d133e7a25a32d4595f2701"
 metafile = true
 
 [[files]]
