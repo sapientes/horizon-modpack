@@ -1193,6 +1193,11 @@ hash = "946f8e0f812442406f4a6d0e659ace06db69b907988847232d5237b6204b0949"
 metafile = true
 
 [[files]]
+file = "mods/fakename.pw.toml"
+hash = "f44ffdebd8b232dda46bb4e527fa752767264d0d6d3daf8fe1eba6cfd63a32af"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "2f0d30f69784a97558a03cec6e647be036bda30602dde06b82df78cd4ef464ee"
 metafile = true
