@@ -1096,11 +1096,6 @@ hash = "7342959eb86faf584e6d64417064dd793ae6b4667f51954f4169d11fe5f0d5da"
 metafile = true
 
 [[files]]
-file = "mods/cosmetic-armor-reworked.pw.toml"
-hash = "c98b92c96eb546872a0d203969ddba29a17f6ab0e57ff93081d81a138562e8b7"
-metafile = true
-
-[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "ec21cc88df303f23078a6c7b47f536f7ef0b1c2872238b778a790bf98083f745"
 metafile = true
@@ -1213,11 +1208,6 @@ metafile = true
 [[files]]
 file = "mods/endless-biomes.pw.toml"
 hash = "ec92801dfcbad21116ff9cf1c3659cf699f545ffcd93e088d2a4d3fb7c640e6d"
-metafile = true
-
-[[files]]
-file = "mods/enemy-expansion.pw.toml"
-hash = "4a1415dbfcaf06a674f59fd741f36f5a353918691e7c463e8621b94b11e37e11"
 metafile = true
 
 [[files]]
@@ -1338,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/idas.pw.toml"
 hash = "c5cc662513953a95db0fc0c8d98186d1f1100478683520ed112f2cae64ea84e6"
+metafile = true
+
+[[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "320a9246e9a1466307a9975ad3835894e6755287ca1745302865e1db00c18227"
 metafile = true
 
 [[files]]
@@ -1681,11 +1676,6 @@ hash = "6b18e2055cddb936210b4f5a81374e509f32513c2716f7d240647e04b17109aa"
 metafile = true
 
 [[files]]
-file = "mods/some-assembly-required.pw.toml"
-hash = "0c84be041332601b4a05730ddcf9859d66c8a4b14c7817e26582fe06eb2393f8"
-metafile = true
-
-[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d42a4342778c40d0f1ba9cc3a31ed4834bbaf6dc93aa94f5606f9cad106db1c9"
 metafile = true
@@ -1718,6 +1708,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "ff98fd7419e9444b4d8affb1851f51de78262da256578fd93dd48c77e15bfa39"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "a5b8cd48709a340f2cbb9bed66a469b60bb453d3b30f5aaed860c3ee9dc0efd6"
 metafile = true
 
 [[files]]
