@@ -1191,6 +1191,16 @@ hash = "c03409b2745473560ea6252774ae2d63158cc684677021a4c40260828ffc422b"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "98cd4ec5c05f16d6440520cab6780d4fdc9d78b7a5f0d6e4146aa38cc88d3c5e"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "55f0f4a055003bd1945e35248bb71798de2b04963b6ad2d1b716a6f1953c29a7"
+metafile = true
+
+[[files]]
 file = "mods/eerie-music-forge-fabric.pw.toml"
 hash = "c7eea73ba247339422f83d3a9c83623563587ebfbfe29e5fc2a9f79e013e57a5"
 metafile = true
@@ -1308,6 +1318,11 @@ metafile = true
 [[files]]
 file = "mods/heartstone.pw.toml"
 hash = "0e7d5ad70af110b7cf953e77001ced99c5bdf8d2774198fdcd52ea18456f0938"
+metafile = true
+
+[[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "ab1b8e35eca9ed480255cafd24a9f7fd3b93c9974103bf539e0bb978ada26ec7"
 metafile = true
 
 [[files]]
@@ -1496,6 +1511,11 @@ hash = "70cfdfde588a2249ae0288aca3320ec5acde348e158c4bb1b61fcb5687cf4065"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
 file = "mods/moyai.pw.toml"
 hash = "f02c0eeff2362b8fbb20a6f0d8ffc4cdbfc03900b2c345fc95bf42e0bb2c032a"
 metafile = true
@@ -1598,6 +1618,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "c683cb91014392a4478573dcb54a22a64fdae1c04f998cd95b2e39bf313bdf1d"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "f8e2f77844dfd64dcb36b6b91215de38102e952065841a4f9155d2663f3b03b4"
 metafile = true
 
 [[files]]
