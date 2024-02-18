@@ -1,16 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ElytraAeronautics.ser"
-hash = "ade3308e138126733704c58904dfb60fd1aebe7c2416dde34e09ceb254964c22"
-
-[[files]]
 file = "config/IDontWantPortalYet-common.toml"
 hash = "28759b398a66db864f80a3d92fd74673b7e847c4652d8033b04f58551d66cda3"
-
-[[files]]
-file = "config/actuallyunbreaking.toml"
-hash = "3f416d02898e28e295392c90029d053321ea8a8324142b36c27440a35e97d284"
 
 [[files]]
 file = "config/akashictome-common.toml"
@@ -581,6 +573,10 @@ file = "config/ftbquests/quests/reward_tables/wood_quest.snbt"
 hash = "2ae4228ecce7781f7bc96985bc4da6bc734a14a5a69ee55caae20537e712661a"
 
 [[files]]
+file = "config/improvedmobs/common.toml"
+hash = "a7a9320e5bb8a76fab83f010bd4055c18651bf165a55fcfb7f08b21621d35fca"
+
+[[files]]
 file = "config/inventorio.json"
 hash = "8840555b6634015466900511ba056f9ee75e4a37f64258e0bbb8741c1f8b05b2"
 
@@ -590,7 +586,7 @@ hash = "d7f148d6294f9cf87881d64a3282ff61c8afd21ff3197017817a99a30a69dd89"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "5c2f3539417884d133ad4393db4c83a8a313554cb127f39c62db7506c0cec9b8"
+hash = "02b7cb2094279ae1a8cf4dfa6b83ed777207f82cfb534e1b708822d7b3da16bf"
 
 [[files]]
 file = "config/jade/hide-blocks-1902.json"
@@ -611,6 +607,10 @@ hash = "3498e961ea1ecfd8edae98681f89dc9345049e5df5ce741f467735e3adc4bf4e"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "f2fc6773090469f4b9ff349bd8fafb5cd1366e67c86e18a708b005f9c907ef36"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "dc6d64b0d1857655b94872068cf14aee6dc4dae9e3c1575cc94d9e44c85815b4"
 
 [[files]]
 file = "config/manaliquidizer.toml"
@@ -694,15 +694,15 @@ hash = "4eba1b9d19ede4b19a41d6eafc7d29f29aad73f644bcb7de164349bcaeb704f1"
 
 [[files]]
 file = "config/ue/UE.toml"
-hash = "2b0887007dfc314248389399b26527c0a3f0bc05a40c619e294ac338f40f64a9"
+hash = "45461257d16a1af7654392ceed3470f7cfded6697c91398bf88d395c6ff47cc0"
 
 [[files]]
 file = "config/ue/UEBase.toml"
-hash = "6971985b57cc092e2e61cc9c430b6b83a400331b01f0ab0cbb6b8eaef93863b7"
+hash = "78871b86b7b152509f2b5727aec3a780c9854ffe019fc904aada9d68f8b6cc53"
 
 [[files]]
 file = "config/ue/UEUtils.toml"
-hash = "021e7eead81793bc22e069b9cf78c85271d5933d3229bce1cea2c810b104e467"
+hash = "0786c72fc228c8a6432bb93e9cb6ca9128925ae5d8562fafb468ee361581d931"
 
 [[files]]
 file = "config/universalgrid-common.toml"
@@ -971,11 +971,6 @@ hash = "078012b47a997084ae5e7f47d519ff277b6e46880110a9f912cc5378603f2b26"
 metafile = true
 
 [[files]]
-file = "mods/ante.pw.toml"
-hash = "58c791e0ecf69a636dc34ddaf77abf089d2fb500e5e858fd887ddbe7789ee65d"
-metafile = true
-
-[[files]]
 file = "mods/apugli.pw.toml"
 hash = "56aed1ef6791d7028f3eb51a75e3b99df08e6505d2de60666be0617f72b98a72"
 metafile = true
@@ -1003,11 +998,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "8438dada85537f9599642ed17a5938852acce4d42030ed56e7beffc6d9e2443a"
-metafile = true
-
-[[files]]
-file = "mods/autohud.pw.toml"
-hash = "4fdc710f62d8e1c0677ea48f812727f4af046c6feb6444c074ca3c5293b63247"
 metafile = true
 
 [[files]]
