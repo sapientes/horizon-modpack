@@ -26,11 +26,11 @@ hash = "9ab2286debcb562460d77ecbf140a50da3926f0d919c8ca92f6af87fe519e986"
 
 [[files]]
 file = "config/ars_nouveau/glyph_accelerate.toml"
-hash = "6b0666c5de9a0a15c25163ef8fc91d261480a36b315ffd1aed57fa0af98135e8"
+hash = "27e7d475fb8c77ff49af2647f0f86ced131c829f63656106600fbb0169cd88b7"
 
 [[files]]
 file = "config/ars_nouveau/glyph_amplify.toml"
-hash = "a2c9970801c2f3f8b85f81f3b57bf2f9f1822fc9241e4455e4f179c9245f7946"
+hash = "3bf9d6d93c1159dd9cfc2d0a0269fda08dcbc91897e0268139c64552597b892b"
 
 [[files]]
 file = "config/ars_nouveau/glyph_animate_block.toml"
@@ -38,11 +38,11 @@ hash = "9b003a411432be3402a9d12ecd42234cc1a9ced409889c163866b8fb823d4b84"
 
 [[files]]
 file = "config/ars_nouveau/glyph_aoe.toml"
-hash = "e46e626227737449586a7dc08b5b016d4e44bf9e82bc9975eba15aced57c2687"
+hash = "4c6230b1bbf06e485be1bb6e064e6258a25a3a6e9bd131274922e4a2ab28fc01"
 
 [[files]]
 file = "config/ars_nouveau/glyph_blink.toml"
-hash = "bb9b1757d205e12fb6491420ace17a6a8d229adbe22267c07e88bfb4b635209c"
+hash = "2338f770c79080b05dbb52c61d2e530f30e11a5e07b88514518607a3be33a490"
 
 [[files]]
 file = "config/ars_nouveau/glyph_bounce.toml"
@@ -50,7 +50,7 @@ hash = "948cf60a88fc70965e96cf6a172a920a97b6f14b1f7b80daff1fa5ee6898476f"
 
 [[files]]
 file = "config/ars_nouveau/glyph_break.toml"
-hash = "5539cd9751a97dc2bca674487044cd6d394985f594755163292667fec7785b45"
+hash = "1b8235d794e3c154a1bc4656ad3905971561e05b3392104c33be102bd4749cea"
 
 [[files]]
 file = "config/ars_nouveau/glyph_cold_snap.toml"
@@ -162,7 +162,7 @@ hash = "4f281c88e926b3c58e2da92629cc1708434a669b322a54d537ea7a5abd8e6bd9"
 
 [[files]]
 file = "config/ars_nouveau/glyph_harm.toml"
-hash = "d4e1578fa45f742050acad06bff6515664d50329d75f4db6dc75c69b8587cf2a"
+hash = "b09aee0638bc23b9bb0bd2c5a481cb2ea06b11167958ba818c05234555d40630"
 
 [[files]]
 file = "config/ars_nouveau/glyph_harvest.toml"
@@ -170,7 +170,7 @@ hash = "66d06bd3259f6b0a8aa5cac0d0443afdedf15ca73f8f70c5ea78d57c012b7a55"
 
 [[files]]
 file = "config/ars_nouveau/glyph_heal.toml"
-hash = "f2aa7b2d4896923cbc13fe8b8ce432da135f816faf6fd1f2f7c864cdf3a62a3e"
+hash = "88acc74f572074cf5e86c2845f2b6796c233d4f1077d3c448af923e50b08459e"
 
 [[files]]
 file = "config/ars_nouveau/glyph_hex.toml"
@@ -198,11 +198,11 @@ hash = "164b3537579c68d6d16ad10c23bb295cd468111899d02ba6e2f2c5fed6ee7495"
 
 [[files]]
 file = "config/ars_nouveau/glyph_launch.toml"
-hash = "a4ca9731257076c2925284524c1544712cbcd1f0fa33fd2fa6d836bd67a2c1df"
+hash = "a6a80dd8b55c92fdd49a2358d6a4c2167f6696e065086af8346891ea5abb0969"
 
 [[files]]
 file = "config/ars_nouveau/glyph_leap.toml"
-hash = "0d92da15127baed93f08dd77515ed82af0741b9b86d9bb4d3497eb8c240fbad1"
+hash = "26308a50a6bc26edd7122adab3dd1cb6bf806493786343bc5fc8b1193850626b"
 
 [[files]]
 file = "config/ars_nouveau/glyph_light.toml"
@@ -1056,11 +1056,6 @@ hash = "3094a52897889217e37bf772fa43727fc4a7f81d0dc9a5e25be933630192bcbb"
 metafile = true
 
 [[files]]
-file = "mods/botania.pw.toml"
-hash = "b28c3da3ee3ca475f8c79cbc4e8eb2f5fd44ab488bc14bfdf1fc04dc6f6e67c4"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "59512015694bd675c63264984669249c8190a37802427e7875b7f2d21d69e033"
 metafile = true
@@ -1486,18 +1481,8 @@ hash = "d3a79e31d81dde71ebd73038e6106ef4ccc0e08ff982cb43062808e24a8e2c97"
 metafile = true
 
 [[files]]
-file = "mods/mana-liquidizer.pw.toml"
-hash = "835d2af2c77bb0978fd33dddabb92e400c9af237462d0c04298bc1d14dcfacae"
-metafile = true
-
-[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "de6cf0123badc0af5bb052d468b3b64d516ac22a38d0e20932bcab8e3bab156d"
-metafile = true
-
-[[files]]
-file = "mods/mechanical-botania.pw.toml"
-hash = "aa057017bd94974ba17a93de9f4eb1232105d0efb6ed9d06085c1f0e8d295b4e"
 metafile = true
 
 [[files]]
