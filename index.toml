@@ -981,6 +981,11 @@ hash = "22ff8e6eae92af7b6fd3d46d76dd156bb13da4921a0c81aa217659ec21ea08b4"
 metafile = true
 
 [[files]]
+file = "mods/ars-armiger.pw.toml"
+hash = "263492efc887381f7cb7827e9a47bb4a7c13bc357463a915c81180172c518327"
+metafile = true
+
+[[files]]
 file = "mods/ars-artifice.pw.toml"
 hash = "2cd692835ea4b34e15d3dd3dee5b0a14b9471a4aad13a7fc01cfb4221f8996d0"
 metafile = true
@@ -1013,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "ad28520b6ef51c069d1d07e00597a2eeb3bf538a1375945bb8a19a5ec799c5ac"
+metafile = true
+
+[[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "a8b9b470a86ac23496164ccaea192c8ff17aa4decbe667bd56fc0fcd0b3e4e6a"
 metafile = true
 
 [[files]]
@@ -1531,6 +1541,11 @@ hash = "5828bc687c146f75adb2186b1d6a4d28c4f2fe03394a3ed2147178e3b0f5835e"
 metafile = true
 
 [[files]]
+file = "mods/mutil.pw.toml"
+hash = "5e2479056133260ff0d3f29f1378567eda68762007f090ceb1839e4a59742885"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "d55f656327a5aa68d76e63ff638ae456d8e57e0e02284c18e2e445f54e8dcb5e"
 metafile = true
@@ -1686,6 +1701,11 @@ hash = "ac0867d3aa28eb9d3386f0ec155af4b96a208dd3f77e6f1bc6d4d4e061ab3f1b"
 metafile = true
 
 [[files]]
+file = "mods/scroll-of-harvests.pw.toml"
+hash = "d1ef2088de4ab01823ddc1eaef6f27d0da0478f1e0090ed2a885566f39af9b8e"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "b9b33e6c23108584c838f06a8e870d02c5eafda675670760a353198fb82eda1d"
 metafile = true
@@ -1698,6 +1718,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "d42a4342778c40d0f1ba9cc3a31ed4834bbaf6dc93aa94f5606f9cad106db1c9"
+metafile = true
+
+[[files]]
+file = "mods/starbunclemania.pw.toml"
+hash = "1f9d1e266791bdfdfa1dd1b57696a01ebd1a86cf91a4e1b3e621602ac0ae174c"
 metafile = true
 
 [[files]]
@@ -1733,6 +1758,21 @@ metafile = true
 [[files]]
 file = "mods/tenshilib.pw.toml"
 hash = "a5b8cd48709a340f2cbb9bed66a469b60bb453d3b30f5aaed860c3ee9dc0efd6"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "e4985d5bacaa77dba02140abe50a0c07e2fd31f877a4f23fb246c91dab02c7e9"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.pw.toml"
+hash = "fd2291ec94ba2d1dc10d04d042e2b83ab222ee3dba6c1da712e189dfc50bdc3e"
+metafile = true
+
+[[files]]
+file = "mods/tetras-delight.pw.toml"
+hash = "31d442e869d0eef066b660fe0c1ffdf98ee9b3fdd6cb5acc6ef2677f08500ad8"
 metafile = true
 
 [[files]]
