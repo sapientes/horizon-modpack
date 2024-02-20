@@ -1771,16 +1771,6 @@ hash = "53c53fd5ab4e8a6b089fa38dcdff296916f964587655d9542485e5b177707c31"
 metafile = true
 
 [[files]]
-file = "mods/unique-enchantments-utils.pw.toml"
-hash = "d7f1566a39ce15a0490a49b4ed6d2419b9bcca5e7e27481e0bed14662e5c734b"
-metafile = true
-
-[[files]]
-file = "mods/unique-enchantments.pw.toml"
-hash = "49e2d673c112cd5f931faa595cbabbac980802333ba79496b4c88f41d7c75e68"
-metafile = true
-
-[[files]]
 file = "mods/universal-grid.pw.toml"
 hash = "2bcfc9fd23b0090863804469afa410bd2f4b797ef1c4f14352d0abfbac7a9947"
 metafile = true
