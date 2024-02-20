@@ -345,14 +345,6 @@ file = "config/autohud.json5"
 hash = "e5a455a0b1dadbd5b5a8b8e40ed8c271926f85f92cc56a55b3fd10657a5eb756"
 
 [[files]]
-file = "config/botania-client.toml"
-hash = "5e38c477a64a95b443be83f366f9f50dae9793df58942344e1e6305744b3a4f0"
-
-[[files]]
-file = "config/botania-common.toml"
-hash = "b0ac84e3883251142c5b2888f097386fb13f3960b9c83a5686249835601a26e5"
-
-[[files]]
 file = "config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
@@ -574,7 +566,7 @@ hash = "2ae4228ecce7781f7bc96985bc4da6bc734a14a5a69ee55caae20537e712661a"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "a7a9320e5bb8a76fab83f010bd4055c18651bf165a55fcfb7f08b21621d35fca"
+hash = "0357f690ed5ba231fd865061e9e359732e3ef96b05ea54de31a8c859ed5c60c6"
 
 [[files]]
 file = "config/inventorio.json"
@@ -613,20 +605,12 @@ file = "config/lootr-common.toml"
 hash = "dc6d64b0d1857655b94872068cf14aee6dc4dae9e3c1575cc94d9e44c85815b4"
 
 [[files]]
-file = "config/manaliquidizer.toml"
-hash = "f52428df83e0527f37afe9b645dbd64b250e419d5aa92643adc2a3d7c87718f1"
-
-[[files]]
 file = "config/map_atlases-client.toml"
 hash = "6a5701e27515fc55f82b366747ced8d40ca891c38168299b8c94cd421ba8de74"
 
 [[files]]
 file = "config/map_atlases-common.toml"
 hash = "c0fd1b9aca80556c1c56dd3f71123873db6573cce090f078b6ac40ec4e924163"
-
-[[files]]
-file = "config/mechanicalbotania-common.toml"
-hash = "e1db9373ae82d7f2f4225093cc5089a5613815c3b0eb85f2cdf79de243280225"
 
 [[files]]
 file = "config/morphtool-common.toml"
@@ -650,7 +634,7 @@ hash = "0c3c30e1b0ecf9d39a14fc667bcd23a14c280790c6d5bd2a96b047141e3348bd"
 
 [[files]]
 file = "config/respawnobelisks.toml"
-hash = "04de65f07677137af9b5a878b563e5120421c9a1d03e2ad4e8bdbb6e7726beb3"
+hash = "d6382a3b364b988d87a5365f60c94ea7d47ba80a86450b317ed807bb43de98ed"
 
 [[files]]
 file = "config/rubidium-options.json"
