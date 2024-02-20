@@ -1431,11 +1431,6 @@ hash = "d1d91b12dd29d8c75a64b02b1c58dd26fce9f12aea6e0c00b394a54687a230ad"
 metafile = true
 
 [[files]]
-file = "mods/kubejs-botania.pw.toml"
-hash = "20e026a0cecdaa8ca6acf1af00885c9246447fb6ab085e9520e10243994f9402"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-create.pw.toml"
 hash = "df3ac07f9607b2e97ffdf1f4b8b576662fa30e283dee5c8f64e9dd20f2398a36"
 metafile = true
