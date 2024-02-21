@@ -25,7 +25,7 @@ bannedRespawnBlocks = []
 	#The items used for charging an obelisk.
 	#Syntax: ["<ITEM_ID>|<CHARGE_AMOUNT>", ...]
 	#Ex:     ["minecraft:stick|35"]
-	obeliskChargeItems = ["minecraft:ender_eye|25", "minecraft:ender_pearl|10, minecraft:chorus_fruit|5"]
+	obeliskChargeItems = ["minecraft:ender_eye|32", "minecraft:ender_pearl|16", "ars_nouveau:end_fiber|32" "minecraft:chorus_fruit|2", "minecraft:popped_chorus_fruit|4"]
 	#Sound to play when charging an obelisk.
 	obeliskChargeSound = "minecraft:block.respawn_anchor.charge"
 	#Sound to play when de-charging(negative charge value) or respawning at an obelisk.
@@ -35,13 +35,13 @@ bannedRespawnBlocks = []
 	#How much charge (%) should be consumed when respawning at an obelisk.
 	obeliskDepleteAmount = 10
 	#Block placed under an obelisk to allow for infinite charge.
-	infiniteChargeBlock = "quark:duskbound_lantern"
+	infiniteChargeBlock = "create_dd:stargaze_singularity_block"
 	#Whether players can set their spawn at obelisks without charge.
 	allowEmptySpawnSetting = false
 
 [teleport]
 	#Whether players can teleport to obelisks by binding a recovery compass to a lodestone under the obelisk.
-	enableTeleportation = false
+	enableTeleportation = true
 	#The delay before being able to teleport again. (In ticks)
 	#Keep this above 100, otherwise issues will arise.
 	#Default value: 3 minutes/3600 ticks
@@ -55,7 +55,7 @@ bannedRespawnBlocks = []
 	#The amount of experience(points, not levels) consumed when teleporting to an obelisk.
 	#Useful numbers: https://minecraft.fandom.com/wiki/Experience#Leveling_up (See 'Total XP')
 	#Default value: 27 points/3 levels
-	xpCost = 55
+	xpCost = 91
 	#The amount of experience(levels, not points) consumed when teleporting to an obelisk.
 	#This is different to 'xpCost' as the cost to teleport will technically get more expensive the more levels you have.
 	#This is similar to how Waystones works.
@@ -150,7 +150,7 @@ bannedRespawnBlocks = []
 
 	[perks.keepExperience]
 		#Whether you should keep experience after death when respawning at an obelisk.
-		keepExperience = false
+		keepExperience = true
 		#How much (%) experience should be kept when respawning at an obelisk.
 		keepExperiencePercent = 100.0
 
