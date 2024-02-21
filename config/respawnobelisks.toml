@@ -25,7 +25,7 @@ bannedRespawnBlocks = []
 	#The items used for charging an obelisk.
 	#Syntax: ["<ITEM_ID>|<CHARGE_AMOUNT>", ...]
 	#Ex:     ["minecraft:stick|35"]
-	obeliskChargeItems = ["minecraft:ender_eye|32", "minecraft:ender_pearl|16", "ars_nouveau:end_fiber|32" "minecraft:chorus_fruit|2", "minecraft:popped_chorus_fruit|4"]
+	obeliskChargeItems = ["minecraft:ender_eye|32", "minecraft:ender_pearl|16", "ars_nouveau:end_fiber|32", "minecraft:chorus_fruit|2", "minecraft:popped_chorus_fruit|4"]
 	#Sound to play when charging an obelisk.
 	obeliskChargeSound = "minecraft:block.respawn_anchor.charge"
 	#Sound to play when de-charging(negative charge value) or respawning at an obelisk.
