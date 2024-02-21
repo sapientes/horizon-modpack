@@ -634,7 +634,7 @@ hash = "0c3c30e1b0ecf9d39a14fc667bcd23a14c280790c6d5bd2a96b047141e3348bd"
 
 [[files]]
 file = "config/respawnobelisks.toml"
-hash = "d6382a3b364b988d87a5365f60c94ea7d47ba80a86450b317ed807bb43de98ed"
+hash = "c78b4dc66f53afca1f3b5b119e7ad2f30cc407a8218785acc90c27a092f9c79b"
 
 [[files]]
 file = "config/rubidium-options.json"
