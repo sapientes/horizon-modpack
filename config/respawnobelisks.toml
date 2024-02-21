@@ -173,4 +173,3 @@ bannedRespawnBlocks = []
 		chancePerLevel = 25.0
 		#The highest level the obeliskbound enchantment can have.
 		maxLevel = 3
-
