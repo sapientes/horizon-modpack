@@ -1355,6 +1355,11 @@ hash = "c62adcdfaecc06cc4df1303bd9e549af56af806a530c4acccd8dc64e7fe21ce7"
 metafile = true
 
 [[files]]
+file = "mods/inventorio-forge.pw.toml"
+hash = "e05a4bc998c92218290325b1d1ecbbc83d4001fd26e7d8cd6d611b691771bbf4"
+metafile = true
+
+[[files]]
 file = "mods/item-filters.pw.toml"
 hash = "e00e666fc6f0726fcca0f74f9252ba4b1022326ee65433b5aaa08bcd14f4390b"
 metafile = true
