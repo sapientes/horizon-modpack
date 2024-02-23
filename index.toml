@@ -634,7 +634,7 @@ hash = "0c3c30e1b0ecf9d39a14fc667bcd23a14c280790c6d5bd2a96b047141e3348bd"
 
 [[files]]
 file = "config/respawnobelisks.toml"
-hash = "d6382a3b364b988d87a5365f60c94ea7d47ba80a86450b317ed807bb43de98ed"
+hash = "c90aebc134eb0b6d142b9f7ef4dfa075812dc5286d17f033803a8d7a7b5e2869"
 
 [[files]]
 file = "config/rubidium-options.json"
@@ -1352,11 +1352,6 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "c62adcdfaecc06cc4df1303bd9e549af56af806a530c4acccd8dc64e7fe21ce7"
-metafile = true
-
-[[files]]
-file = "mods/inventorio-forge.pw.toml"
-hash = "e05a4bc998c92218290325b1d1ecbbc83d4001fd26e7d8cd6d611b691771bbf4"
 metafile = true
 
 [[files]]
