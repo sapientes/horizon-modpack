@@ -1,2 +1,5 @@
-data
 .DS_STORE
+build
+include/Curseforge/*
+!include/Curseforge/.gitkeep
+

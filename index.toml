@@ -917,6 +917,10 @@ file = "kubejs/assets/travelerstitles/lang/uk_ua.json"
 hash = "6bf894daeb9542727708f7f787a617de7b607d7b4b14b9c52d03b553051e08df"
 
 [[files]]
+file = "kubejs/data/nyxmc/tags/items/cosmetic_armor.json"
+hash = "3289c0665307fc1c9be1cb9a4e86777621398aa6567ae1bdd2eb2815eec2177f"
+
+[[files]]
 file = "kubejs/server_scripts/clear_armor.js"
 hash = "2af7bb784f8b258fc1aba1e0960200a3925b495a459369d78a71c86d1a1dfdcb"
 

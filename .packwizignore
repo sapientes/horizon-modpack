@@ -1,11 +1,9 @@
-data
 include
 .git
-docker-compose.yml
 .gitignore
 LICENSE
 README.md
-.gitmodules
 .github
-fix_envs.sh
+Justfile
+build
 
