@@ -1402,6 +1402,11 @@ hash = "f778669cfc9569ab26995ce292f85c95ec8d3b3a1df71064860fda3a253610aa"
 metafile = true
 
 [[files]]
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "0ea662e50db5e462b1f6ac35db7ceec1d1d002b9f9670ca3a0d0c08e2f4248da"
+metafile = true
+
+[[files]]
 file = "mods/scroll-of-harvests.pw.toml"
 hash = "fbed5cefb00508498dc547e48cb828124b7dd85c4a90c89e3b261baf31ea8924"
 metafile = true
