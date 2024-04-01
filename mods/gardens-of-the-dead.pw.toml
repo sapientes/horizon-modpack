@@ -1,0 +1,13 @@
+name = "Gardens of the Dead"
+filename = "gardens-of-the-dead-forge-4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lg1TPRFm/versions/iGji6IXM/gardens-of-the-dead-forge-4.0.1.jar"
+hash-format = "sha1"
+hash = "e070c93455a2df32ad404d8704e57eda8d71f58e"
+
+[update]
+[update.modrinth]
+mod-id = "lg1TPRFm"
+version = "iGji6IXM"
