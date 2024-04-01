@@ -345,6 +345,10 @@ file = "config/autohud.json5"
 hash = "e5a455a0b1dadbd5b5a8b8e40ed8c271926f85f92cc56a55b3fd10657a5eb756"
 
 [[files]]
+file = "config/botania-common.toml"
+hash = "65d06dd6b4e1d8f6d40582ae6e22bea00eea9124b3158cd8b07e2d2bcf0b7158"
+
+[[files]]
 file = "config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
