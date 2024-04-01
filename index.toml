@@ -1517,13 +1517,8 @@ hash = "f778669cfc9569ab26995ce292f85c95ec8d3b3a1df71064860fda3a253610aa"
 metafile = true
 
 [[files]]
-file = "mods/savage-ender-dragon.pw.toml"
-hash = "f21b3af1439bc9a3d36dff594da3bb1e0db37e679fc11e6d822e4dc2cb5c2aee"
-metafile = true
-
-[[files]]
-file = "mods/scalmon.pw.toml"
-hash = "57cc3185c018347c1e8c038cf3cbf4e1dcbc979e4edbc611a52dc69a6cae2b38"
+file = "mods/sanity-descent-into-madness.pw.toml"
+hash = "0ea662e50db5e462b1f6ac35db7ceec1d1d002b9f9670ca3a0d0c08e2f4248da"
 metafile = true
 
 [[files]]
