@@ -569,14 +569,6 @@ file = "config/improvedmobs/common.toml"
 hash = "0357f690ed5ba231fd865061e9e359732e3ef96b05ea54de31a8c859ed5c60c6"
 
 [[files]]
-file = "config/inventorio.json"
-hash = "8840555b6634015466900511ba056f9ee75e4a37f64258e0bbb8741c1f8b05b2"
-
-[[files]]
-file = "config/inventorio_shared.json"
-hash = "d7f148d6294f9cf87881d64a3282ff61c8afd21ff3197017817a99a30a69dd89"
-
-[[files]]
 file = "config/item_obliterator.json"
 hash = "02b7cb2094279ae1a8cf4dfa6b83ed777207f82cfb534e1b708822d7b3da16bf"
 
@@ -633,8 +625,8 @@ file = "config/respawningshulkers.json5"
 hash = "0c3c30e1b0ecf9d39a14fc667bcd23a14c280790c6d5bd2a96b047141e3348bd"
 
 [[files]]
-file = "config/respawnobelisks.toml"
-hash = "c78b4dc66f53afca1f3b5b119e7ad2f30cc407a8218785acc90c27a092f9c79b"
+file = "config/respawnobelisks.jsonc"
+hash = "0e3a2c174bcadde69b3ca265e0e287c637407b1a9746432fcd400ac80326b5d1"
 
 [[files]]
 file = "config/rubidium-options.json"
