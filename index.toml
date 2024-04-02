@@ -873,11 +873,6 @@ file = "kubejs/assets/travelerstitles/lang/uk_ua.json"
 hash = "6bf894daeb9542727708f7f787a617de7b607d7b4b14b9c52d03b553051e08df"
 
 [[files]]
-file = "minecraft-nameless.pw.toml"
-hash = "e79fd07b908d3abe25b06386f45785f09c93bbb594ecbcc26af25b9ae8814fc3"
-metafile = true
-
-[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "162a4ffbba8101ff4ea55acbbef7e8b959904f9af67e30457f3cafb70600e771"
 metafile = true
