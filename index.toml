@@ -1498,6 +1498,11 @@ hash = "1bbdcb9e8d94265b5c2e1a14ad4294b5ce6c85ef39c9a424e6020c8638ba8c07"
 metafile = true
 
 [[files]]
+file = "mods/respawning-structures-forge-fabric.pw.toml"
+hash = "188a850993d5e888fdb8afb0e2291d71ae45cd8ebe1b44264df3c16b8add1896"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
 metafile = true
