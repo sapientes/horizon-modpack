@@ -345,6 +345,10 @@ file = "config/autohud.json5"
 hash = "e5a455a0b1dadbd5b5a8b8e40ed8c271926f85f92cc56a55b3fd10657a5eb756"
 
 [[files]]
+file = "config/botania-common.toml"
+hash = "65d06dd6b4e1d8f6d40582ae6e22bea00eea9124b3158cd8b07e2d2bcf0b7158"
+
+[[files]]
 file = "config/capes.json5"
 hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
@@ -566,15 +570,7 @@ hash = "2ae4228ecce7781f7bc96985bc4da6bc734a14a5a69ee55caae20537e712661a"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "0357f690ed5ba231fd865061e9e359732e3ef96b05ea54de31a8c859ed5c60c6"
-
-[[files]]
-file = "config/inventorio.json"
-hash = "8840555b6634015466900511ba056f9ee75e4a37f64258e0bbb8741c1f8b05b2"
-
-[[files]]
-file = "config/inventorio_shared.json"
-hash = "d7f148d6294f9cf87881d64a3282ff61c8afd21ff3197017817a99a30a69dd89"
+hash = "1dc961e598b4d2570d6177f4a9971628683c908b2de153c45901ad220dfc405b"
 
 [[files]]
 file = "config/item_obliterator.json"
@@ -633,8 +629,8 @@ file = "config/respawningshulkers.json5"
 hash = "0c3c30e1b0ecf9d39a14fc667bcd23a14c280790c6d5bd2a96b047141e3348bd"
 
 [[files]]
-file = "config/respawnobelisks.toml"
-hash = "c78b4dc66f53afca1f3b5b119e7ad2f30cc407a8218785acc90c27a092f9c79b"
+file = "config/respawnobelisks.jsonc"
+hash = "0e3a2c174bcadde69b3ca265e0e287c637407b1a9746432fcd400ac80326b5d1"
 
 [[files]]
 file = "config/rubidium-options.json"
@@ -875,11 +871,6 @@ hash = "4f4457305125ed378f20506c97e48189b263cbd26c94adbe5bb18ed2217b1967"
 [[files]]
 file = "kubejs/assets/travelerstitles/lang/uk_ua.json"
 hash = "6bf894daeb9542727708f7f787a617de7b607d7b4b14b9c52d03b553051e08df"
-
-[[files]]
-file = "minecraft-nameless.pw.toml"
-hash = "e79fd07b908d3abe25b06386f45785f09c93bbb594ecbcc26af25b9ae8814fc3"
-metafile = true
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
