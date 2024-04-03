@@ -1024,7 +1024,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-questing.pw.toml"
-hash = "e8df7f29849de64b60ede914299b45cafbe1a33bc2554e2e6fd2c435fde9bc77"
+hash = "dd21e4ecc800cc29a9b6d5022f61b8d3aa48a06441df105a279e7b67c82910ed"
 metafile = true
 
 [[files]]
@@ -1074,7 +1074,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "fc2f9ae707d48e94dcd7a7c3ee318f72a7dec54302d4d496ac4d86974da7208f"
+hash = "019cdde7695f5aaeddd49aeeff11b67fe7cbfbdbf0de6ea609552737423c8fe7"
 metafile = true
 
 [[files]]
@@ -1289,7 +1289,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e93f24623fe48bd7eee6e54e80c223ce71e639e210372124b8f22dd6b72924cc"
+hash = "98727baa5596efd274e4f99cddda4f289931bc14f527261c76f1f959fc3a0eb3"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
-hash = "83219231c7af4677a2507e01ca0faf39acca69f05506148d1d6a3e47b4c94562"
+hash = "e4e7107718506a0ed56224ca1ea1dc0de79d40d68b37bee918d30bec35bd3cb8"
 metafile = true
 
 [[files]]
