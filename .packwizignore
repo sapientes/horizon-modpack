@@ -7,3 +7,4 @@ README.md
 Justfile
 build
 .devcontainer
+.vscode
