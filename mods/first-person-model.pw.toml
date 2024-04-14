@@ -1,6 +1,6 @@
 name = "First-person Model (Forge/Fabric)"
 filename = "firstperson-forge-2.3.4-mc1.20.1.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
