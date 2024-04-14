@@ -1,0 +1,13 @@
+name = "Salmonberry Addition"
+filename = "salmonberryaddition-0.0.12-04.04.2024.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qm4JeAEX/versions/RY0bhF2I/salmonberryaddition-0.0.12-04.04.2024.jar"
+hash-format = "sha1"
+hash = "eb788e86503737b651247b61d05d2dbe89b55ae0"
+
+[update]
+[update.modrinth]
+mod-id = "Qm4JeAEX"
+version = "RY0bhF2I"
