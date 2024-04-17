@@ -791,11 +791,6 @@ hash = "99076221dbe0fab1166269e88b120602103f9c68d6eb7bd08e1f8acf504148b5"
 metafile = true
 
 [[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
-metafile = true
-
-[[files]]
 file = "mods/upcycle!.pw.toml"
 hash = "82ba7eb703c990a83394c7268211951f73d52fae83e6d6e75f4bb640afe62d49"
 metafile = true
