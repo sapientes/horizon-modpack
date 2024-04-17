@@ -221,6 +221,11 @@ hash = "ee7c6f097bf9567277fe9bf256c18827f963ffbf2c974f696705374a4c0151c5"
 metafile = true
 
 [[files]]
+file = "mods/dsbg.pw.toml"
+hash = "af92ed5470538054c627025f808800b58f4b2215b09e7a82956061906bcc2eda"
+metafile = true
+
+[[files]]
 file = "mods/ecospherical-expansion.pw.toml"
 hash = "da6f893feb4b9a720edd2115c7c4296e5681dee4a6b5078cb006ca7a71a76f19"
 metafile = true
