@@ -181,11 +181,6 @@ hash = "4ae2c1b627cfede58a8add7fde29c6d889426aa72ea09a852a402a861aa95166"
 metafile = true
 
 [[files]]
-file = "mods/ct-overhaul-village.pw.toml"
-hash = "d25ada163cbf92d6e8ad0532dd865e3be566a6302a190b849d3741bda318b012"
-metafile = true
-
-[[files]]
 file = "mods/ctov-savage-and-ravage-compat.pw.toml"
 hash = "2f470dc24271e3e96cb0b38968b86817b35a25548a969aa23702bbb9e91ae4bb"
 metafile = true
@@ -263,11 +258,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "6aa429945fb3ea2a28187e1fcf0523ebde2adf2c81edcf069d5a2edf21f9273b"
-metafile = true
-
-[[files]]
-file = "mods/epic-fight.pw.toml"
-hash = "a88b41fa06bcffe549cca7745419e0856ccc67ce7dd79c7395ae6a72ce4e1c94"
 metafile = true
 
 [[files]]
@@ -532,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/music-manager.pw.toml"
-hash = "3b0195f0d97eb04455f840cf3dae8ee6e08a90bcbb4f1b70418f17b07290a10a"
+hash = "5188938dae98cea632e8c921f0a210af7f2901da9809c1774b9a315f1992cbfa"
 metafile = true
 
 [[files]]
@@ -548,11 +538,6 @@ metafile = true
 [[files]]
 file = "mods/necronomicon.pw.toml"
 hash = "909e0c021f6d58d6f6a4d5cc37e6db88a37bb18287eb6120fc8b047fd234fb9f"
-metafile = true
-
-[[files]]
-file = "mods/nerb.pw.toml"
-hash = "0619ad8e332cfb2e068e565ba9adad3bf12286c80afd93f6c90224c89d8375e1"
 metafile = true
 
 [[files]]
@@ -646,18 +631,8 @@ hash = "6c0268d720d803f8d488d32524fd80949fb4e51791477695916929ce05ee7a06"
 metafile = true
 
 [[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "334da4e36fd4d253d2bf9d6fd812464078fad34af8cacbae654737c0f27e436c"
-metafile = true
-
-[[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
 hash = "188a850993d5e888fdb8afb0e2291d71ae45cd8ebe1b44264df3c16b8add1896"
-metafile = true
-
-[[files]]
-file = "mods/restore-chat-links.pw.toml"
-hash = "971504dd495fb6f3eb335d75e48976792dee9ea71ea746211e9094b88da69ede"
 metafile = true
 
 [[files]]
@@ -668,11 +643,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "4c84cf26527d15e63c0793118bb26ea29e4bfb963b1b9bfadb76888f59bb7837"
-metafile = true
-
-[[files]]
-file = "mods/salmonberry-addition.pw.toml"
-hash = "9827798194025da2df2000efc9b265ac39808e9ce0cb98cb021a993cbdb93420"
 metafile = true
 
 [[files]]
@@ -791,28 +761,13 @@ hash = "99076221dbe0fab1166269e88b120602103f9c68d6eb7bd08e1f8acf504148b5"
 metafile = true
 
 [[files]]
-file = "mods/upcycle!.pw.toml"
-hash = "82ba7eb703c990a83394c7268211951f73d52fae83e6d6e75f4bb640afe62d49"
-metafile = true
-
-[[files]]
 file = "mods/useful-spyglass.pw.toml"
 hash = "b39adbbba15d19a6f7a6debcddcd88c0236b037ae70d09c421c44cf90fb3dd29"
 metafile = true
 
 [[files]]
-file = "mods/variable-spawner-hardness.pw.toml"
-hash = "86acbdf718b102928fe1ba0e2946fb170c979b196d1292d2d5506f2ae6554ac2"
-metafile = true
-
-[[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
-metafile = true
-
-[[files]]
-file = "mods/weapons-of-miracles.pw.toml"
-hash = "7bc61bb031ab879816b20df7ed60d476123025c7a2c92dc1213294ea310759ad"
 metafile = true
 
 [[files]]

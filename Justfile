@@ -10,6 +10,8 @@ fix-envs:
     sed -i 's/^side = "client"/side = "both"/' mods/do-a-barrel-roll.pw.toml
     sed -i 's/^side = "client"/side = "both"/' mods/just-enough-resources-jer.pw.toml
     
+    sed -i 's/^side = "both"/side = "client"/' mods/music-manager.pw.toml
+
     packwiz refresh
 
 # Build the prism pack
