@@ -22,7 +22,7 @@ prism:
     cd include/Prism
     cp ../unsup.ini .minecraft
     
-    zip -r Prism.zip * .*
+    zip -r Prism.zip * .minecraft
     
     mv Prism.zip ../../build/Pseudoscience.SMP.Modpack.Iteration.1.Prism.zip
     rm .minecraft/unsup.ini
