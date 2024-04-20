@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "fa34a3117af7f8ed553ec563a7c90c1d6462184c7df5b837c831cb482c6ae582"
 metafile = true
 
 [[files]]
@@ -248,11 +248,6 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
-metafile = true
-
-[[files]]
-file = "mods/dga-server-1.pw.toml"
-hash = "67489b55e384066c8bbb39c8aded21f9f184c46bf32faa3d064e9a566b48caf5"
 metafile = true
 
 [[files]]
@@ -636,11 +631,6 @@ hash = "dae4726b3176b29df975c0b3d35beb18c2ac5e3049f1e0f22f9759f61cb81be0"
 metafile = true
 
 [[files]]
-file = "mods/missing_texture_block.pw.toml"
-hash = "35ea49405af3d09dac8a32f6a5b4122d16fa3056e4a92b5b091a9fa64af7cf28"
-metafile = true
-
-[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "7159460e600aaf9f4a000bc71474227d64481bb15ef16fdd423834aa5df4ba9d"
 metafile = true
@@ -816,6 +806,11 @@ hash = "57cc3185c018347c1e8c038cf3cbf4e1dcbc979e4edbc611a52dc69a6cae2b38"
 metafile = true
 
 [[files]]
+file = "mods/seamless.pw.toml"
+hash = "bc8d4a1b3deccfb5b8a93aa7322984bb392f5d0a40082e1c0587cf286386de2d"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
@@ -923,11 +918,6 @@ metafile = true
 [[files]]
 file = "mods/unending-void.pw.toml"
 hash = "bca6521808eda7a544216db16477c2c3b703d0680384a29708767b3cf85008c7"
-metafile = true
-
-[[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
 metafile = true
 
 [[files]]
