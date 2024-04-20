@@ -1,0 +1,13 @@
+name = "DGA SERVER 1"
+filename = "margenitemodpack.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a8257476a1e872281329b015437e68089c20580"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4741892
+project-id = 910787
