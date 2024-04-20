@@ -1,6 +1,82 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Weather2/Misc.toml"
+hash = "71a72185ff65949e3f63722d5fe97f6157271a2ac55572086fdf21bd01f52bb9"
+
+[[files]]
+file = "config/Weather2/Tornado.toml"
+hash = "ee36350dbdf8c0add9a8dda6343910ee6cffb15a5f8a96829592a0f7dbba5d50"
+
+[[files]]
+file = "config/ars_nouveau/ars_nouveau-common.toml"
+hash = "69f30f262eb9f654ac0761ba60438105bd385a8a1860f2353c2a5e116f145bf5"
+
+[[files]]
+file = "config/ars_nouveau/ars_nouveau-server.toml"
+hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
+
+[[files]]
+file = "config/botania-common.toml"
+hash = "65d06dd6b4e1d8f6d40582ae6e22bea00eea9124b3158cd8b07e2d2bcf0b7158"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "4a33bb0cb06a683e293eba7e0dcfc77e7b7e8ed715969422f56b95436a815490"
+
+[[files]]
+file = "config/createaddition-common.toml"
+hash = "6a935d14a23bf7472fe65753cf771848e928e6d862ef3e2f9d856efb7ee2719c"
+
+[[files]]
+file = "config/distantfriends-common.toml"
+hash = "736824ca032434cf7252559787dc243a5336eac6ce9e24d330006e006cd96f68"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "d15a77ec124213e84488a898af1fa52dfa328078e84cf8aeef03c665934deb8d"
+
+[[files]]
+file = "config/improvedmobs/common.toml"
+hash = "70282d2edec6630b914585cb81002e6e01ffc4884b879fe56323cdc7114eaa89"
+
+[[files]]
+file = "config/item_obliterator.json"
+hash = "9a18eac0f8b2f2c7080ce4b52ac07c7fdd19d8ddf699a4f7eaa7dc0727b9a815"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "dc6d64b0d1857655b94872068cf14aee6dc4dae9e3c1575cc94d9e44c85815b4"
+
+[[files]]
+file = "config/map_atlases-client.toml"
+hash = "90a7bb5cc35f072ceb7486bf4c67a8caf880f03575f2fd9682671ba2f69cb187"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "5f2b01bbf2582c9d3d9fc2ed376c05a9a0316bbd44674e3bff61124dbf1acdc8"
+
+[[files]]
+file = "config/mffs-common.toml"
+hash = "2840150c598c7c9674c8c99f32cdec79a69392c63261169bdd6aee7c361288b1"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
+
+[[files]]
+file = "config/respawningstructures.json"
+hash = "b731c053405b7d23892967463d9b32c7d12912aab2b63e1101a23ef1fe098822"
+
+[[files]]
+file = "config/sanitydim/default.toml"
+hash = "d625dc0caf077af0ab6cc393a7ec7f9e4a2529ab86e2b66a04ce443de99f0591"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "0263eb4038316e14e184de7072ef3368469fea70d1ca33c1932f26a6f7d35be3"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "d45973beb5a6fb30e74cb249bf66e7906005310706d154157f8ba69819444378"
 metafile = true
