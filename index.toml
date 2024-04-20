@@ -97,6 +97,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "64a9d35d95525940611e536b2d16ee73dec0c213832195b2f7f8f925e077d774"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "539dbbe58d06cc5118b287baca3f8e331dd557c9ce87ebe3daf1d205d96ee3a0"
 metafile = true
@@ -179,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "958d92f2c763942e7846f4c77b675c126cc8738a1dbc1a6f53390fa0d44b1a10"
+metafile = true
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "a388f4afe890e268a739cf598b68859ca3d86506a3fa3e46c17e4aa63debd309"
 metafile = true
 
 [[files]]
@@ -547,6 +557,11 @@ hash = "aa0da0a91a670024529a4c78f264a214576b0a994d1a50d89a219987d8025490"
 metafile = true
 
 [[files]]
+file = "mods/hidden-names.pw.toml"
+hash = "34c29cca5c3f703dd44f3a2dc67785a19d8e5cf18f77222f85db5db5ff9bf035"
+metafile = true
+
+[[files]]
 file = "mods/hourglass.pw.toml"
 hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
 metafile = true
@@ -637,6 +652,11 @@ hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2fa3ea42c8afb4a8959b689d099d6b9ecf55a5b0f17d350d6d00d33d83053b32"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-additions.pw.toml"
 hash = "5ef798f324e2dba2248304b85e897386d0be6aaa1be79ed299db163ff1965ceb"
 metafile = true
@@ -664,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "11076d97e1627a4355d0bc985896766d50f9161e38f22f50a7abdbdad371e6ad"
 metafile = true
 
 [[files]]
@@ -744,6 +769,11 @@ metafile = true
 [[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "0ba7a94db8bb292d37f3d426c9cc6bf72a60c699f16ce18c77cdb2487a941e5c"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "967412dd78791d3c8ed00470ac9dd9473d0d03fdf78d04a9a004ea79bfcbde70"
 metafile = true
 
 [[files]]
@@ -867,6 +897,11 @@ hash = "f765e9ddeb51d4f1d02b48bf6565ff76db1ae5e953890a0d576b7c6fb311ba1b"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "45646ed86d783d82cc2b804466d4aaf06a67e14766928f17134d02558179f3f0"
+metafile = true
+
+[[files]]
 file = "mods/savage-ender-dragon.pw.toml"
 hash = "f21b3af1439bc9a3d36dff594da3bb1e0db37e679fc11e6d822e4dc2cb5c2aee"
 metafile = true
@@ -893,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "71e068b5d0828db5807c9da84641dde3b04696a99708c3d118a832e49ae1890c"
+hash = "a4ea4e2d3ac9d1fb1fd797abf402d8b04ad9b1a955fa26e07df9af51a16c9d0b"
 metafile = true
 
 [[files]]
