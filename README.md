@@ -1,5 +1,3 @@
-![pseudosharp](https://github.com/nyxmc/pseudoscience-modpack/assets/107522398/d1e10431-590f-40ca-bf63-5537f47577f1)
-
 # pseudoscience-modpack
 
 ## Manual Changes
