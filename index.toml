@@ -65,8 +65,8 @@ file = "config/quark-common.toml"
 hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
 
 [[files]]
-file = "config/respawningstructures.json"
-hash = "b731c053405b7d23892967463d9b32c7d12912aab2b63e1101a23ef1fe098822"
+file = "config/respawnobelisks.jsonc"
+hash = "e3b9dc8a3b371a7b2f556f899427cb31d5565df0d9ab00b00407b633ba03b3f7"
 
 [[files]]
 file = "config/sanitydim/default.toml"
