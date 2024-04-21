@@ -447,11 +447,6 @@ hash = "0fadc0622e6620793e299a5a2595e537ca1467223f4f00b5cf6b96fea1ee844e"
 metafile = true
 
 [[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "b239213b05549a5a767022bb68c058b329f4f78a58deaab139301c4c0f42ca21"
-metafile = true
-
-[[files]]
 file = "mods/experienced_crops.pw.toml"
 hash = "f3735a5160997f629fa06b103ff779296cb5bc9b9749f0fb3bceb15ed2580ba5"
 metafile = true
@@ -1039,11 +1034,6 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "645abd4b0dd0bebeb1da113cc6d31d2ecbc1963f97d0e9137fde2048667c0e0e"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
 
 [[files]]
