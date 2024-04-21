@@ -46,7 +46,7 @@ hash = "70282d2edec6630b914585cb81002e6e01ffc4884b879fe56323cdc7114eaa89"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "9a18eac0f8b2f2c7080ce4b52ac07c7fdd19d8ddf699a4f7eaa7dc0727b9a815"
+hash = "57401c3ecafec069484615f5d9b48fdda57903d65a3c8546cb2ea7453c39b37c"
 
 [[files]]
 file = "config/lootr-common.toml"
