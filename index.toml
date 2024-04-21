@@ -17,6 +17,10 @@ file = "config/ars_nouveau/ars_nouveau-server.toml"
 hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
 
 [[files]]
+file = "config/asteorbar-client.toml"
+hash = "a2f91d571fbdf742abf5514ca40cb821637ac75c8d3a30a99e43a5c1af2b0bbc"
+
+[[files]]
 file = "config/botania-common.toml"
 hash = "65d06dd6b4e1d8f6d40582ae6e22bea00eea9124b3158cd8b07e2d2bcf0b7158"
 
