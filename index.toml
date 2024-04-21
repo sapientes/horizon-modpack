@@ -65,8 +65,8 @@ file = "config/quark-common.toml"
 hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
 
 [[files]]
-file = "config/respawningstructures.json"
-hash = "b731c053405b7d23892967463d9b32c7d12912aab2b63e1101a23ef1fe098822"
+file = "config/respawnobelisks.jsonc"
+hash = "e3b9dc8a3b371a7b2f556f899427cb31d5565df0d9ab00b00407b633ba03b3f7"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -819,11 +819,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "3553b15512a2e368b1d61be28ca92e6084999c00fcc21a07f6a282005739273c"
-metafile = true
-
-[[files]]
-file = "mods/placeable-goat-horns.pw.toml"
-hash = "3df123a2b09f2e339965199f57b36894021e8deca8297a38dab5dd487f1ea911"
 metafile = true
 
 [[files]]
