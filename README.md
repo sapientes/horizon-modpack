@@ -3,7 +3,9 @@
 ## Installation (3 Methods)
 ### #1 (Vanilla Launcher)
 0. Download the latest Forge & the Minecraft launcher
-1. Download and execute this script for Windows: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1](url) or Mac: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command](url)
+1. Download and execute this script for: 
+- Windows: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1](url)
+- Mac: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command](url)
 #### #2 (Prism Launcher)
 > [!NOTE]
 > This doesn't work with MultiMC.
