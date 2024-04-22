@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > This pack requires Java 17, which can be installed from [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](url), ensure you have it selected in your launcher.
 ### #1 (Vanilla Launcher)
-0. Download the latest Forge & the Minecraft launcher
+0. Download the latest Forge [https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html](url)
 1. Download and execute this script for: 
 - Windows: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1](url)
 - Mac: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command](url)
