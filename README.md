@@ -5,7 +5,7 @@
 0. Download the latest Forge & the Minecraft launcher
 1. Download and execute this script for Windows: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1](url) or Mac: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command](url)
 #### #2 (Prism Launcher)
-> ![NOTE]
+> [!NOTE]
 > This doesn't work with MultiMC.
 0. Download unsup 0.2.3 ([https://git.sleeping.town/unascribed/unsup/releases](url)) 
 1. Open "Add Instance," navigate to Import & input the direct download: [https://github.com/nyxmc/pseudoscience-modpack/releases/download/v1.1.2/Pseudoscience.SMP.Modpack.Iteration.1.Prism.zip](url)
