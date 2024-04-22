@@ -81,6 +81,70 @@ file = "config/supplementaries-common.toml"
 hash = "0263eb4038316e14e184de7072ef3368469fea70d1ca33c1932f26a6f7d35be3"
 
 [[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "429487fe7d4983e111715dd1e621cef8a93a459c7802ba2d5a45d7168223d9ef"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4b97fc7f979aa6bb1631731073f5f1a6549b10f11e308b55f420f69336a82a71"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "ec725aacdaeccfe8562db81b2212b10563891d99cf899048dd7b6227ff98cb24"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "daf672ccc6e71f27ac8db68ac2bcdec86efd205577986c9ca3a3140db6c797a1"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+
+[[files]]
+file = "kubejs/server_scripts/2x2-reversible.js"
+hash = "9c257247e6bcccf73f7467b6a7865d323acdcb7cb0051a096e2e3bc0f18d9177"
+
+[[files]]
+file = "kubejs/server_scripts/create-ars.js"
+hash = "248ee5cb48abe2068a2b38eaab82defb64b48a55a79cc934d4fff4cdddc0a8ce"
+
+[[files]]
+file = "kubejs/server_scripts/crops.js"
+hash = "2b7af8a1d0a33deaf40f9e8530459481bbc4a2fccd246f34b388130b8fa61a84"
+
+[[files]]
+file = "kubejs/server_scripts/galosphere-tech.js"
+hash = "7e69ed24452d58b11337a4175e9e99df7b7894113e6c85cc872526665f5f27a2"
+
+[[files]]
+file = "kubejs/server_scripts/sudosignsitemtags.js"
+hash = "d70c98af43fe8d958cdb16d932cfb2fff8111d6b90a0ad506e10a3f2cf78f8da"
+
+[[files]]
+file = "kubejs/server_scripts/tethered-ars.js"
+hash = "83f1952c39627930fcc02c7f27818ca95b3f7ee67ce567404d69fcd6a90612a5"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "d45973beb5a6fb30e74cb249bf66e7906005310706d154157f8ba69819444378"
 metafile = true
