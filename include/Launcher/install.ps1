@@ -3,7 +3,7 @@ Import-Module Microsoft.PowerShell.Utility
 # Define the URLs and the target directory
 $unsupUrl = "https://git.sleeping.town/unascribed/unsup/releases/download/v0.2.3/unsup-0.2.3.jar"
 $unsupIniUrl = "https://raw.githubusercontent.com/nyxmc/pseudoscience-modpack/v1.1/include/unsup.ini"
-$profileUrl = "https://github.com/nyxmc/pseudoscience-modpack/releases/download/v1.1.2/profile.json"
+$profileUrl = "https://raw.githubusercontent.com/nyxmc/pseudoscience-modpack/v1.1/include/Launcher/profile.json"
 
 $response = Invoke-WebRequest -Uri $profileUrl
 $profileString = $response.Content -replace "%s", "$env:APPDATA"
