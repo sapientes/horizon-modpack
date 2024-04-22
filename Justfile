@@ -52,7 +52,7 @@ launcher:
     export MC_VERSION=${VERSIONS[minecraft]}
     export FORGE_VERSION=${VERSIONS[forge]}
 
-    cat include/Launcher/profile.json | envsubst | tee build/profile.json
+    cat include/Launcher/profile.json.template | envsubst | tee include/Launcher/profile.json
 
 
 # Build all packs
