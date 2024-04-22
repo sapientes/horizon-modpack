@@ -10,8 +10,6 @@ fix-envs:
     sed -i 's/^side = "client"/side = "both"/' mods/do-a-barrel-roll.pw.toml
     sed -i 's/^side = "client"/side = "both"/' mods/just-enough-resources-jer.pw.toml
     
-    sed -i 's/^side = "both"/side = "client"/' mods/music-manager.pw.toml
-
     packwiz refresh
 
 # Build the prism pack
@@ -43,5 +41,19 @@ curseforge:
     packwiz refresh
     packwiz cf export -y -o ../../build/Pseudoscience.SMP.Modpack.Iteration.1.Curseforge.zip
 
+# Build a profile for the vanilla launcher
+launcher:
+    #!/usr/bin/env zsh
+    set -euxo pipefail
+
+    eval "$(tombl -e VERSIONS=versions pack.toml)"
+
+    export ITERATION=$(git rev-parse --abbrev-ref HEAD | cut -c 2-)
+    export MC_VERSION=${VERSIONS[minecraft]}
+    export FORGE_VERSION=${VERSIONS[forge]}
+
+    cat include/Launcher/profile.json | envsubst | tee build/profile.json
+
+
 # Build all packs
-build: fix-envs prism curseforge
+build: fix-envs prism curseforge launcher
