@@ -17,7 +17,8 @@
 Refer to this image for details on setting the JVM arguments.
 ![](include/cf-jvm-args.png)
 #### #4 (Non-Prism/Curseforge)
-> [!NOTE] We do not actively support this, we suggest going with #1.
+> [!NOTE]
+> We do not actively support this, we suggest going with #1.
 0. Download unsup 0.2.3 ([https://git.sleeping.town/unascribed/unsup/releases](url)),
 1. Create an instance on your launcher & place this .jar into your .minecraft folder.
 2. Place the [unsup.ini](include/unsup.ini) into the .minecraft folder.
