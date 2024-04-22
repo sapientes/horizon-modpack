@@ -5,12 +5,12 @@ $unsupUrl = "https://git.sleeping.town/unascribed/unsup/releases/download/v0.2.3
 $unsupIniUrl = "https://raw.githubusercontent.com/nyxmc/pseudoscience-modpack/v1.1/include/unsup.ini"
 $profileUrl = "https://raw.githubusercontent.com/nyxmc/pseudoscience-modpack/v1.1/include/Launcher/profile.json"
 
-$response = Invoke-WebRequest -Uri $profileUrl
-$profileString = $response.Content -replace "%s", "$env:APPDATA"
-$profile = ConvertFrom-Json -InputObject $profileString
-$profileKey = $profile.PSObject.Properties[0].Name
+$profile = Invoke-RestMethod $profileUrl
+$profileName = $profile.PSObject.Properties.Name
 
-$targetDir = $profile.$profileKey.gameDir
+
+$profile.$profileName.gameDir = $profile.$profileName.gameDir -replace "%s/", "$env:APPDATA\"
+$targetDir = $profile.$profileName.gameDir
 
 # Create the directory if it doesn't exist
 if (!(Test-Path -Path $targetDir)) {
@@ -22,11 +22,11 @@ Invoke-WebRequest -Uri $unsupUrl -OutFile "$targetDir\unsup.jar"
 Invoke-WebRequest -Uri $unsupIniUrl -OutFile "$targetDir\unsup.ini"
 
 # Update the launcher_profiles.json
-$profilesPath = "$env:APPDATA\minecraft\launcher_profiles.json"
-$profilesString = Get-Content -Path $profilesPath -Raw
-$profiles = ConvertFrom-Json -InputObject $profilesString
+$profilesPath = "$env:APPDATA\.minecraft\launcher_profiles.json"
+$profiles = Get-Content -Path $profilesPath -Raw | ConvertFrom-Json
 
-$profiles.profiles.$profileKey = $profile
+$profiles.profiles | Add-Member -NotePropertyName $profileName -NotePropertyValue $profile.$profileName
+
 
 # Save the updated file
 $newContent = ConvertTo-Json -InputObject $profiles
