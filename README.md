@@ -1,6 +1,7 @@
 # pseudoscience-modpack
 
 ## Installation (3 Methods)
+-1. Have Java 17 installed.
 ### #1 (Vanilla Launcher)
 0. Download the latest Forge & the Minecraft launcher
 1. Download and execute this script for: 
