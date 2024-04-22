@@ -2,7 +2,7 @@
 
 ## Installation (3 Methods)
 > [!IMPORTANT]
-> This pack requires Java 17
+> This pack requires Java 17, which can be installed from https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
 ### #1 (Vanilla Launcher)
 0. Download the latest Forge & the Minecraft launcher
 1. Download and execute this script for: 
