@@ -327,6 +327,11 @@ hash = "1e11f4f972028ad2b783be5fc14afa10bd554722893ee210fec74ad8722bc43f"
 metafile = true
 
 [[files]]
+file = "mods/death-finder.pw.toml"
+hash = "2c80258c2810c04a04148491bb52cbe786bc35e75479942e645c165a76e97966"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
@@ -487,6 +492,11 @@ hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
 metafile = true
 
 [[files]]
+file = "mods/feathers.pw.toml"
+hash = "9c34ffc1ead5213a5f7d68d667d9a699810587ce2b8ddee884d7cacc311f5794"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
 metafile = true
@@ -564,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
+metafile = true
+
+[[files]]
+file = "mods/i-dont-want-portal-yet.pw.toml"
+hash = "f0c3ef479fdf0dc2b74e7120abbef36d41e9ffd3e908e9f686db5a8f08596bf4"
 metafile = true
 
 [[files]]
@@ -833,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "b7051b4c2310e1566a96e72b525469b460ed1132e393f3865b798bc3d80386f0"
+hash = "cf286645d97aa16bc6949cf9515eaee267a8115f5a16c0dfda361ed893164d73"
 metafile = true
 
 [[files]]
@@ -864,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/respawn-obelisks.pw.toml"
 hash = "6c0268d720d803f8d488d32524fd80949fb4e51791477695916929ce05ee7a06"
+metafile = true
+
+[[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "334da4e36fd4d253d2bf9d6fd812464078fad34af8cacbae654737c0f27e436c"
 metafile = true
 
 [[files]]
