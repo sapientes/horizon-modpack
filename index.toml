@@ -399,11 +399,6 @@ hash = "1e11f4f972028ad2b783be5fc14afa10bd554722893ee210fec74ad8722bc43f"
 metafile = true
 
 [[files]]
-file = "mods/death-finder.pw.toml"
-hash = "2c80258c2810c04a04148491bb52cbe786bc35e75479942e645c165a76e97966"
-metafile = true
-
-[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "c2693b6cb0bbdfbf84b166382f8612c8dc8ccc02ab5fa66d44bf7ece75f48afb"
 metafile = true
