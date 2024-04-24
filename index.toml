@@ -939,11 +939,6 @@ hash = "6c0268d720d803f8d488d32524fd80949fb4e51791477695916929ce05ee7a06"
 metafile = true
 
 [[files]]
-file = "mods/respawning-animals.pw.toml"
-hash = "334da4e36fd4d253d2bf9d6fd812464078fad34af8cacbae654737c0f27e436c"
-metafile = true
-
-[[files]]
 file = "mods/respawning-structures-forge-fabric.pw.toml"
 hash = "188a850993d5e888fdb8afb0e2291d71ae45cd8ebe1b44264df3c16b8add1896"
 metafile = true
