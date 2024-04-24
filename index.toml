@@ -17,6 +17,10 @@ file = "config/ars_nouveau/ars_nouveau-server.toml"
 hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
 
 [[files]]
+file = "config/asteorbar-client.toml"
+hash = "a2f91d571fbdf742abf5514ca40cb821637ac75c8d3a30a99e43a5c1af2b0bbc"
+
+[[files]]
 file = "config/botania-common.toml"
 hash = "65d06dd6b4e1d8f6d40582ae6e22bea00eea9124b3158cd8b07e2d2bcf0b7158"
 
@@ -42,7 +46,7 @@ hash = "70282d2edec6630b914585cb81002e6e01ffc4884b879fe56323cdc7114eaa89"
 
 [[files]]
 file = "config/item_obliterator.json"
-hash = "9a18eac0f8b2f2c7080ce4b52ac07c7fdd19d8ddf699a4f7eaa7dc0727b9a815"
+hash = "57401c3ecafec069484615f5d9b48fdda57903d65a3c8546cb2ea7453c39b37c"
 
 [[files]]
 file = "config/lootr-common.toml"
@@ -65,8 +69,8 @@ file = "config/quark-common.toml"
 hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
 
 [[files]]
-file = "config/respawningstructures.json"
-hash = "b731c053405b7d23892967463d9b32c7d12912aab2b63e1101a23ef1fe098822"
+file = "config/respawnobelisks.jsonc"
+hash = "e3b9dc8a3b371a7b2f556f899427cb31d5565df0d9ab00b00407b633ba03b3f7"
 
 [[files]]
 file = "config/sanitydim/default.toml"
@@ -75,6 +79,70 @@ hash = "d625dc0caf077af0ab6cc393a7ec7f9e4a2529ab86e2b66a04ce443de99f0591"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "0263eb4038316e14e184de7072ef3368469fea70d1ca33c1932f26a6f7d35be3"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "429487fe7d4983e111715dd1e621cef8a93a459c7802ba2d5a45d7168223d9ef"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "4b97fc7f979aa6bb1631731073f5f1a6549b10f11e308b55f420f69336a82a71"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "ec725aacdaeccfe8562db81b2212b10563891d99cf899048dd7b6227ff98cb24"
+
+[[files]]
+file = "kubejs/config/probejs.json"
+hash = "daf672ccc6e71f27ac8db68ac2bcdec86efd205577986c9ca3a3140db6c797a1"
+
+[[files]]
+file = "kubejs/jsconfig.json"
+hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
+
+[[files]]
+file = "kubejs/server_scripts/2x2-reversible.js"
+hash = "9c257247e6bcccf73f7467b6a7865d323acdcb7cb0051a096e2e3bc0f18d9177"
+
+[[files]]
+file = "kubejs/server_scripts/create-ars.js"
+hash = "248ee5cb48abe2068a2b38eaab82defb64b48a55a79cc934d4fff4cdddc0a8ce"
+
+[[files]]
+file = "kubejs/server_scripts/crops.js"
+hash = "2b7af8a1d0a33deaf40f9e8530459481bbc4a2fccd246f34b388130b8fa61a84"
+
+[[files]]
+file = "kubejs/server_scripts/galosphere-tech.js"
+hash = "7e69ed24452d58b11337a4175e9e99df7b7894113e6c85cc872526665f5f27a2"
+
+[[files]]
+file = "kubejs/server_scripts/sudosignsitemtags.js"
+hash = "d70c98af43fe8d958cdb16d932cfb2fff8111d6b90a0ad506e10a3f2cf78f8da"
+
+[[files]]
+file = "kubejs/server_scripts/tethered-ars.js"
+hash = "83f1952c39627930fcc02c7f27818ca95b3f7ee67ce567404d69fcd6a90612a5"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/additional-placements.pw.toml"
@@ -449,11 +517,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "0fadc0622e6620793e299a5a2595e537ca1467223f4f00b5cf6b96fea1ee844e"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "b239213b05549a5a767022bb68c058b329f4f78a58deaab139301c4c0f42ca21"
 metafile = true
 
 [[files]]
@@ -942,6 +1005,11 @@ hash = "a4ea4e2d3ac9d1fb1fd797abf402d8b04ad9b1a955fa26e07df9af51a16c9d0b"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "74086fbcc6777ae5c6d5542a11529ba15be9839384b42be366ece980511151d2"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
@@ -1057,18 +1125,8 @@ hash = "4297416e32be836b029accf29fc06aa89be40c58e0b72c6efaebfdcd69e95d29"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-forge.pw.toml"
 hash = "645abd4b0dd0bebeb1da113cc6d31d2ecbc1963f97d0e9137fde2048667c0e0e"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "28df223dfb6b7f35f71487224bbb630fe6db6f03a3a357bf2f15a3fafb98dd63"
 metafile = true
 
 [[files]]

@@ -1,40 +1,31 @@
 # pseudoscience-modpack
 
-## Manual Changes
-
-Set the values in server.properties according to the server.properties in include/  
-
-## Installation on launchers besides Prism
-
-> [!IMPORTANT]  
-> The supplied pack is **incompatible with MultiMC** as it doesn't support Java agent components.  
-> Use Prism instead or install manually using the method below.
-
-> [!NOTE]  
-> If you're using Curseforge, download the Curseforge Pack from the releases. Then continue with step 4.
-
-This should work with all common launchers, however, installing with a launcher other than Prism isn't actively supported.  
-
-1) Download the latest unsup.jar from https://git.sleeping.town/unascribed/unsup/releases
-2) Place this file into the .minecraft folder along with the [unsup.ini](include/unsup.ini)
-3) Rename the jar to `unsup.jar`
-4) Add `-javaagent:unsup.jar` to the JVM arguments
-
-### Setting the JVM arguments
-
-#### In Curseforge App
-
+## Installation (3 Methods)
+> [!IMPORTANT]
+> This pack requires Java 17, which can be installed from [https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html](url), ensure you have it selected in your launcher.
+### #1 (Vanilla Launcher)
+0. Download the latest Forge [https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html](url)
+1. Download and execute this script for: 
+- Windows: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1](url)
+- Mac: [https://github.com/nyxmc/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command](url)
+#### #2 (Prism Launcher)
+> [!NOTE]
+> This doesn't work with MultiMC.
+0. Download unsup 0.2.3 ([https://git.sleeping.town/unascribed/unsup/releases](url)) 
+1. Open "Add Instance," navigate to Import & input the direct download: [https://github.com/nyxmc/pseudoscience-modpack/releases/download/v1.1.2/Pseudoscience.SMP.Modpack.Iteration.1.Prism.zip](url)
+#### #3 (Curseforge)
+1. Download the Curseforge .zip modpack.
+2. Add `-javaagent:unsup.jar` to the JVM arguments
+> [!WARNING]
+> This breaks other packs, it is suggested to edit the instance in the Minecraft Launcher.
+Refer to this image for details on setting the JVM arguments.
 ![](include/cf-jvm-args.png)
-
-> [!IMPORTANT]  
-> This will break **all** other modpacks, causing them to not start anymore. It is better to edit the installation in the Minecraft launcher directly.
-
-
-#### In the official launcher
-
-Under JVM arguments, go to the very right with your arrow keys and enter `-javaagent:unsup.jar`, making sure to add a space between the last argument and this one. 
+#### #4 (Non-Prism/Curseforge)
+> [!NOTE]
+> We do not actively support this, we suggest going with #1.
+0. Download unsup 0.2.3 ([https://git.sleeping.town/unascribed/unsup/releases](url)),
+1. Create an instance on your launcher & place this .jar into your .minecraft folder.
+2. Place the [unsup.ini](include/unsup.ini) into the .minecraft folder.
+3. Add `-javaagent:unsup-0.2.3.jar` to the JVM arguments, if your launcher supports them.
+If adding JVM arguments to the vanilla launcher (& you decided not to perform #1, under JVM arguments, go to the very right with your arrow keys and enter `-javaagent:unsup-0.2.3.jar`,add a space between the last argument and this one.
 ![](include/jvm-args.png)
-
-If you're not using this together with Curseforge, ideally create a new instance. Otherwise, edit the instance created by Curseforge.
-
-
