@@ -65,6 +65,10 @@ file = "config/mffs-common.toml"
 hash = "2840150c598c7c9674c8c99f32cdec79a69392c63261169bdd6aee7c361288b1"
 
 [[files]]
+file = "config/parcool-client.toml"
+hash = "9968b5a3be307503f33a39730de5897f17faff8c29c6d9a53003fab514502bf8"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
 
