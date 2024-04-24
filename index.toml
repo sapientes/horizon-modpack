@@ -66,7 +66,7 @@ hash = "2840150c598c7c9674c8c99f32cdec79a69392c63261169bdd6aee7c361288b1"
 
 [[files]]
 file = "config/parcool-client.toml"
-hash = "9968b5a3be307503f33a39730de5897f17faff8c29c6d9a53003fab514502bf8"
+hash = "f09a3d234f2eb05df88b57859665e98dbdf7e5c4a72584e97fb94c5baa80b0ed"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -556,11 +556,6 @@ metafile = true
 [[files]]
 file = "mods/fastworkbench.pw.toml"
 hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
-metafile = true
-
-[[files]]
-file = "mods/feathers.pw.toml"
-hash = "9c34ffc1ead5213a5f7d68d667d9a699810587ce2b8ddee884d7cacc311f5794"
 metafile = true
 
 [[files]]

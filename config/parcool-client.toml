@@ -153,7 +153,7 @@
 
 [Stamina]
 	#Allowed Values: Default, Hunger, Feathers, Paraglider, EpicFight
-	used_stamina = "Feathers"
+	used_stamina = "Default"
 
 	#Caution : Max stamina and stamina recovery config is removed because they became attributes.
 	[Stamina.Consumption]
