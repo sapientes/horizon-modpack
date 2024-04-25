@@ -46,7 +46,7 @@ hash = "4d03bc8d16fd76adf31226e4e7f0cfaad2f05e4caeb251a96d30258700fba506"
 
 [[files]]
 file = "config/ars_nouveau/glyph_glide.toml"
-hash = "6a7928ad33032eec15ae886cc014c4b7deb410d731d19d52fbe536393469659b"
+hash = "c1d87586432f4a662e7af6f01765f89b6478fc7e5b8724e37d0330ff1038071d"
 
 [[files]]
 file = "config/ars_nouveau/glyph_gust.toml"
