@@ -10,15 +10,67 @@ hash = "ee36350dbdf8c0add9a8dda6343910ee6cffb15a5f8a96829592a0f7dbba5d50"
 
 [[files]]
 file = "config/ars_nouveau/ars_nouveau-common.toml"
-hash = "69f30f262eb9f654ac0761ba60438105bd385a8a1860f2353c2a5e116f145bf5"
+hash = "1954994e6008bb00184e8341930f81fce1b9f1ef509e05ec5433accee3656f0f"
 
 [[files]]
 file = "config/ars_nouveau/ars_nouveau-server.toml"
 hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
 
 [[files]]
+file = "config/ars_nouveau/glyph_blink.toml"
+hash = "b51d32a12ccaaf0cacb6ef1f9487a94a243895a775a8b97322994261c3b451ec"
+
+[[files]]
+file = "config/ars_nouveau/glyph_bounce.toml"
+hash = "00db32a5c0f770d271cf474359045a192608816180635a39536f0b931811dc09"
+
+[[files]]
 file = "config/ars_nouveau/glyph_cold_snap.toml"
 hash = "cf37893097dcb4f66154b6daf62468a1f3ed5f5d44ff8a4316a491e4a9aa255b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_conjure_water.toml"
+hash = "b6cd0e083ba05122666e9858d6f2274610bfbf76f79b83cf007908bca3830dd8"
+
+[[files]]
+file = "config/ars_nouveau/glyph_cut.toml"
+hash = "5bbe7c76db5b94d6ae88cc4b72b73ffdd21a6f16aa8f100eea0e5b271f9fd8cf"
+
+[[files]]
+file = "config/ars_nouveau/glyph_fangs.toml"
+hash = "71334f9e57b3ec52bf9bf91bed0f76d5d8a3f6bf2d3cff670a8643b2f5828b9e"
+
+[[files]]
+file = "config/ars_nouveau/glyph_flare.toml"
+hash = "4d03bc8d16fd76adf31226e4e7f0cfaad2f05e4caeb251a96d30258700fba506"
+
+[[files]]
+file = "config/ars_nouveau/glyph_glide.toml"
+hash = "6a7928ad33032eec15ae886cc014c4b7deb410d731d19d52fbe536393469659b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_gust.toml"
+hash = "f5523fdd15353753bf6e1489af12219a9839ba1069749634d8f058d09b4049bf"
+
+[[files]]
+file = "config/ars_nouveau/glyph_invisibility.toml"
+hash = "8631b8b954dc0fd745f9853c8a12d9443760f6c6acbc29aa14730b1020296f7b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_orbit.toml"
+hash = "65351ce820626a957ee72f6755524bb3382e9278ac31a36b43c2746d01752b99"
+
+[[files]]
+file = "config/ars_nouveau/glyph_split.toml"
+hash = "7e7e7bac9a2314e3cf4b34bb8873aa574f6f3aff09c288e0d8631c0257c78ec8"
+
+[[files]]
+file = "config/ars_nouveau/glyph_summon_decoy.toml"
+hash = "51e041abdcb6ca9da478cf1ce386f01a4dc73ca07d0e5cc79fcf5a757cff481b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_wither.toml"
+hash = "b8299a5b7b9dc744fba322f6cb5004597a49858548f9a520eb827622ba419550"
 
 [[files]]
 file = "config/asteorbar-client.toml"
