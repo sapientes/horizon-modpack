@@ -97,6 +97,10 @@ file = "config/do_a_barrel_roll-server.json"
 hash = "d15a77ec124213e84488a898af1fa52dfa328078e84cf8aeef03c665934deb8d"
 
 [[files]]
+file = "config/immersive_weathering-common.toml"
+hash = "1025878c5991b8edcf8dd809802c7e4bc1764a992215d67f214ce68eaed8ff61"
+
+[[files]]
 file = "config/improvedmobs/common.toml"
 hash = "70282d2edec6630b914585cb81002e6e01ffc4884b879fe56323cdc7114eaa89"
 
@@ -114,7 +118,7 @@ hash = "90a7bb5cc35f072ceb7486bf4c67a8caf880f03575f2fd9682671ba2f69cb187"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "5f2b01bbf2582c9d3d9fc2ed376c05a9a0316bbd44674e3bff61124dbf1acdc8"
+hash = "525a19f9dcb54a67558c6968e4f84ce7dfca6b31bd0031f424e141656da04314"
 
 [[files]]
 file = "config/mffs-common.toml"
@@ -138,7 +142,7 @@ hash = "d625dc0caf077af0ab6cc393a7ec7f9e4a2529ab86e2b66a04ce443de99f0591"
 
 [[files]]
 file = "config/supplementaries-common.toml"
-hash = "0263eb4038316e14e184de7072ef3368469fea70d1ca33c1932f26a6f7d35be3"
+hash = "008f08f1dcc83fcf53a4c43c0a48dfb7bdf2d714017a7d3e8945408877a3ae30"
 
 [[files]]
 file = "kubejs/README.txt"
