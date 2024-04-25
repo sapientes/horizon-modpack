@@ -4,5 +4,8 @@
         ".github": true,
         ".gitattributes": true,
         "**/.gitkeep": true
-    }
+    },
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "v1.1"
+    ]
 }
