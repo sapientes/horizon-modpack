@@ -17,6 +17,10 @@ file = "config/ars_nouveau/ars_nouveau-server.toml"
 hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
 
 [[files]]
+file = "config/ars_nouveau/glyph_cold_snap.toml"
+hash = "cf37893097dcb4f66154b6daf62468a1f3ed5f5d44ff8a4316a491e4a9aa255b"
+
+[[files]]
 file = "config/asteorbar-client.toml"
 hash = "a2f91d571fbdf742abf5514ca40cb821637ac75c8d3a30a99e43a5c1af2b0bbc"
 
@@ -74,7 +78,7 @@ hash = "b1f1bac08656a2979657feabf1c0d1524595748aaa3e270027c904ba06490610"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
-hash = "e3b9dc8a3b371a7b2f556f899427cb31d5565df0d9ab00b00407b633ba03b3f7"
+hash = "fe11a064f746f510603ad7170c4575c6c33f7fee664826e90913b2dde3db276e"
 
 [[files]]
 file = "config/sanitydim/default.toml"
