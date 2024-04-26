@@ -130,7 +130,7 @@ hash = "f09a3d234f2eb05df88b57859665e98dbdf7e5c4a72584e97fb94c5baa80b0ed"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "d025d4c5062b6332011d20069faa097698e9ae85894086fef7f8420c931e632d"
+hash = "b25c36b9723ff5b88beaef5103042aa549c3b12b26e600c6eb0393fc8bc01016"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
