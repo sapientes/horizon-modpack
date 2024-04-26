@@ -14,7 +14,7 @@ hash = "1954994e6008bb00184e8341930f81fce1b9f1ef509e05ec5433accee3656f0f"
 
 [[files]]
 file = "config/ars_nouveau/ars_nouveau-server.toml"
-hash = "8ef48c6120d1e3e2eae54b08c2e9e3f7f195c1b6296a89d9f729ca6b3c3891ef"
+hash = "cab71e2cbe0f1630da592df1f55af8fe89389b6311040ff04baf0a011b85dcd0"
 
 [[files]]
 file = "config/ars_nouveau/glyph_blink.toml"
@@ -23,6 +23,10 @@ hash = "b51d32a12ccaaf0cacb6ef1f9487a94a243895a775a8b97322994261c3b451ec"
 [[files]]
 file = "config/ars_nouveau/glyph_bounce.toml"
 hash = "00db32a5c0f770d271cf474359045a192608816180635a39536f0b931811dc09"
+
+[[files]]
+file = "config/ars_nouveau/glyph_break.toml"
+hash = "c641bf66fcc89d9fd9baf3a96478f1c22f24d6dd08c1b516d49cc4501a8d9cca"
 
 [[files]]
 file = "config/ars_nouveau/glyph_cold_snap.toml"
