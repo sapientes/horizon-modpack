@@ -26,7 +26,7 @@ hash = "00db32a5c0f770d271cf474359045a192608816180635a39536f0b931811dc09"
 
 [[files]]
 file = "config/ars_nouveau/glyph_break.toml"
-hash = "c641bf66fcc89d9fd9baf3a96478f1c22f24d6dd08c1b516d49cc4501a8d9cca"
+hash = "470ae9cee50e4a7225bebe28569be25c02cff6edf463e3af219b0d1652f663c3"
 
 [[files]]
 file = "config/ars_nouveau/glyph_cold_snap.toml"
