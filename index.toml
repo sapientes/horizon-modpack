@@ -26,7 +26,7 @@ hash = "00db32a5c0f770d271cf474359045a192608816180635a39536f0b931811dc09"
 
 [[files]]
 file = "config/ars_nouveau/glyph_break.toml"
-hash = "470ae9cee50e4a7225bebe28569be25c02cff6edf463e3af219b0d1652f663c3"
+hash = "a571a8d7afdc78d08fa6c55bf04b5f90247a01691a4098ba0f98d85064794fee"
 
 [[files]]
 file = "config/ars_nouveau/glyph_cold_snap.toml"
@@ -59,6 +59,14 @@ hash = "f5523fdd15353753bf6e1489af12219a9839ba1069749634d8f058d09b4049bf"
 [[files]]
 file = "config/ars_nouveau/glyph_invisibility.toml"
 hash = "8631b8b954dc0fd745f9853c8a12d9443760f6c6acbc29aa14730b1020296f7b"
+
+[[files]]
+file = "config/ars_nouveau/glyph_launch.toml"
+hash = "469c443fdf7b30f773fd7bfa4dd57dd85b80004e4df743a050f61c086cfbceb9"
+
+[[files]]
+file = "config/ars_nouveau/glyph_leap.toml"
+hash = "e777b27e5c88be53ddbb376b49e144d3b75dd2da386a9391fb1d62b36916ea76"
 
 [[files]]
 file = "config/ars_nouveau/glyph_orbit.toml"
@@ -127,6 +135,10 @@ hash = "525a19f9dcb54a67558c6968e4f84ce7dfca6b31bd0031f424e141656da04314"
 [[files]]
 file = "config/mffs-common.toml"
 hash = "2840150c598c7c9674c8c99f32cdec79a69392c63261169bdd6aee7c361288b1"
+
+[[files]]
+file = "config/origins-common.roml"
+hash = "1fd355cff56910765a24cd62b87c7482fe6e679ee45e6cd7502e3573a4dd4232"
 
 [[files]]
 file = "config/parcool-client.toml"
