@@ -114,7 +114,7 @@ hash = "1025878c5991b8edcf8dd809802c7e4bc1764a992215d67f214ce68eaed8ff61"
 
 [[files]]
 file = "config/improvedmobs/common.toml"
-hash = "70282d2edec6630b914585cb81002e6e01ffc4884b879fe56323cdc7114eaa89"
+hash = "740c06e1fb31924fa6ac296f7054e4325930ebf4201820347c7ab18f9593f8d6"
 
 [[files]]
 file = "config/item_obliterator.json"
