@@ -15,7 +15,7 @@
 	glyphmax = 15
 	#Max mana bonus for tier of book
 	#Range: > 0
-	tierMax = 50
+	tierMax = 0
 	#Mana regen bonus for tier of book
 	#Range: > 0
 	tierRegen = 1

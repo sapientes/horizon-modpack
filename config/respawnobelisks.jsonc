@@ -48,7 +48,7 @@
       */
       "blockPriorities": {},
       // Whether attempting to set your spawn point when you are unable to overrides an existing spawn point.
-      "forceSpawnSetting": false,
+      "forceSpawnSetting": true,
       /*
       When players are allowed to choose to spawn at a secondary respawn point.
       NEVER: Players can never choose.
@@ -70,7 +70,7 @@
       IF_OBELISK: Players can only choose if their respawn point is an obelisk.
       UNLESS_OBELISK: Players can only choose if their respawn point is not an obelisk.
       */
-      "worldSpawnMode": "NEVER"
+      "worldSpawnMode": "IF_OBELISK"
   },
   "immortalityCurse": {
       // Whether the curse of immortality should be enabled or not.
