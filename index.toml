@@ -579,7 +579,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "8ee03cc11e08cc40ada8804d1e7b7373fcd5b7c2ee0f84b470cdbbbf7fab038d"
+hash = "5896fbed8723b44f83a2d81f4fbf9fe3bd601fedc5b20a30550e14a15965e40c"
 metafile = true
 
 [[files]]
@@ -735,6 +735,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "6838240b825c5b2f362ed03da14e93f4449b29bc016370fba46bbf3312b79d10"
+metafile = true
+
+[[files]]
+file = "mods/mana-and-artifice.pw.toml"
+hash = "4d0e77e44f4e93cc59f9132d613afa85735a918697d6dc0ffcd8fd34d088b472"
 metafile = true
 
 [[files]]
