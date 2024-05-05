@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm"
+filename = "dummmmmmy-1.20-1.8.16-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/xVBLDt8m/dummmmmmy-1.20-1.8.16-fabric.jar"
+hash-format = "sha1"
+hash = "a9102c13df7d97a1bb1a8b2e16aa8a2767ea0306"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "xVBLDt8m"

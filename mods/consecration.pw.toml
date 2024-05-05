@@ -1,0 +1,13 @@
+name = "Consecration"
+filename = "consecration-fabric-7.0.3+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/e1uJfPiY/versions/xSm7pxNa/consecration-fabric-7.0.3%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "1f8cbc9ddbd230ad56691fc33c023b80415eb7c7"
+
+[update]
+[update.modrinth]
+mod-id = "e1uJfPiY"
+version = "xSm7pxNa"
