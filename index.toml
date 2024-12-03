@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "5aa3cd865fb13cb88c1d749614b53120a92d16a922fe89a3009b0552097926a0"
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "dfa12dd42116d5fd064ae312d68e2671ec5661d2a27dc8b4f28f257bfc1ae0d2"
 metafile = true
+
+[[files]]
+file = "shell.nix"
+hash = "6ce14437463a9e3483910e49ad2a704b7948d0660a81fd867dfb391a25661a73"
