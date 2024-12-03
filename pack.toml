@@ -1,4 +1,4 @@
-name = "Unnamed Modpack"
+name = "Chilly Peaks Modpack"
 author = "oskardotglobal, RealSonarX"
 version = "1.1.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "35890471c08c75de1218afdf83aff70cd4c6efaccc890e66001f885cfeb20d0c"
+hash = "f9706fd0cbe33fb747caaed1a21945053d280619b283972db947fb2ac7c21048"
 
 [versions]
 fabric = "0.15.11"

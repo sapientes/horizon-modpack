@@ -10,7 +10,7 @@ prism:
     
     zip -r Prism.zip * .minecraft
     
-    mv Prism.zip ../../build/Unnamed.Modpack.Prism.zip
+    mv Prism.zip ../../build/Chilly.Peaks.Modpack.Prism.zip
     rm .minecraft/unsup.ini
 
 # Build the cf pack
@@ -27,7 +27,7 @@ curseforge:
     cp ../unsup.ini .
 
     packwiz refresh
-    packwiz cf export -y -o ../../build/Unnamed.Modpack.Curseforge.zip
+    packwiz cf export -y -o ../../build/Chilly.Peaks.Modpack.Curseforge.zip
 
 # Build a profile for the vanilla launcher
 launcher:
