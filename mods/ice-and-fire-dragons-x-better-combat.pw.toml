@@ -1,6 +1,6 @@
 name = "Ice and Fire Dragons X Better Combat"
 filename = "iceandfirebettercombat.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pjMUs69E/versions/d5Vp1w6z/iceandfirebettercombat.jar"

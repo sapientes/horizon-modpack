@@ -1,5 +1,10 @@
 default: build
 
+# Force env for server mods to be both
+fix-env:
+  rg -l 'side = "server"' \
+  | xargs -i sed -i 's/^side = "server"/side = "both"/' "{}"
+
 # Build the prism pack
 prism:
     #!/usr/bin/env bash
