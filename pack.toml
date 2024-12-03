@@ -1,6 +1,6 @@
 name = "Chilly Peaks Modpack"
-author = "oskardotglobal, RealSonarX"
-version = "1.1.0"
+author = "PixelAgent007, RealSonarX"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "f9706fd0cbe33fb747caaed1a21945053d280619b283972db947fb2ac7c21048"
 
 [versions]
-fabric = "0.15.11"
+forge = "47.3.12"
 minecraft = "1.20.1"

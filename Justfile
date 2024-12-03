@@ -38,7 +38,7 @@ launcher:
 
     export ITERATION=$(git rev-parse --abbrev-ref HEAD | cut -c 2-)
     export MC_VERSION=${VERSIONS[minecraft]}
-    export FABRIC_VERSION=${VERSIONS[fabric]}
+    export FORGE_VERSION=${VERSIONS[forge]}
 
     cat include/Launcher/profile.json.template | envsubst | tee include/Launcher/profile.json
 
