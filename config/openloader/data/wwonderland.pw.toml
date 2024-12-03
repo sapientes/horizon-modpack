@@ -1,0 +1,13 @@
+name = "Winter Wonderland"
+filename = "WWDP.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z6biNUuV/versions/vTa73poC/WWDP.zip"
+hash-format = "sha1"
+hash = "c086f09a08a8f4f5ab00c28d8ef3b3cf1fa6c756"
+
+[update]
+[update.modrinth]
+mod-id = "Z6biNUuV"
+version = "vTa73poC"

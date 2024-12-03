@@ -1,0 +1,13 @@
+name = "Ice and Fire Dragons X Better Combat"
+filename = "iceandfirebettercombat.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pjMUs69E/versions/d5Vp1w6z/iceandfirebettercombat.jar"
+hash-format = "sha1"
+hash = "e6dad8643b89258d8866533b4ac088d1c154e5df"
+
+[update]
+[update.modrinth]
+mod-id = "pjMUs69E"
+version = "d5Vp1w6z"

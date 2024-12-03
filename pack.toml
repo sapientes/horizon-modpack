@@ -6,8 +6,12 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f9706fd0cbe33fb747caaed1a21945053d280619b283972db947fb2ac7c21048"
+hash = "bb0ff5365b7cfe607281e9ed0b497aa2f870e4739030078ed4f26833fbe66a51"
 
 [versions]
 forge = "47.3.12"
 minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20.1"]
+datapack-folder = "config/openloader/data"

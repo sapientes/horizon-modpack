@@ -1,0 +1,13 @@
+name = "Eyes of Ice and Fire"
+filename = "eyesoficeandfire-1.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Io0YMzKx/versions/5VxHYfKb/eyesoficeandfire-1.1.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "79647d62ae6ac6fb89ad5f4c3e9fc3b7c690945d"
+
+[update]
+[update.modrinth]
+mod-id = "Io0YMzKx"
+version = "5VxHYfKb"

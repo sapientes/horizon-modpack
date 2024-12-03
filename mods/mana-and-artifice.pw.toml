@@ -1,0 +1,13 @@
+name = "Mana and Artifice"
+filename = "mna-forge-1.20.1-3.1.0.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zaRGNexp/versions/dN8E5zJw/mna-forge-1.20.1-3.1.0.1-all.jar"
+hash-format = "sha1"
+hash = "7d4cf59b71fd218879e90ad4876755dd7c794e61"
+
+[update]
+[update.modrinth]
+mod-id = "zaRGNexp"
+version = "dN8E5zJw"

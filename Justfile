@@ -4,12 +4,12 @@ default: build
 prism:
     #!/usr/bin/env bash
     set -euxo pipefail
-    
+
     cd include/Prism
     cp ../unsup.ini .minecraft
-    
+
     zip -r Prism.zip * .minecraft
-    
+
     mv Prism.zip ../../build/Chilly.Peaks.Modpack.Prism.zip
     rm .minecraft/unsup.ini
 
@@ -19,7 +19,7 @@ curseforge:
     set -euxo pipefail
 
     cp pack.toml include/Curseforge
-    
+
     cd include/Curseforge
     touch index.toml
 
@@ -42,6 +42,21 @@ launcher:
 
     cat include/Launcher/profile.json.template | envsubst | tee include/Launcher/profile.json
 
+# Load mods from modlist
+modlist:
+    #!/usr/bin/env bash
+    set -euxo pipefail
+
+    rm -rf mods/*
+    packwiz refresh
+
+    for link in $(grep '\- ' Modlist.md | sed 's/- //'); do
+        if [[ -z $(echo "$link" | grep modrinth) ]]; then
+            packwiz cf install -y "$link"
+        else
+            packwiz mr install -y "$link"
+        fi
+    done
 
 # Build all packs
 build: prism curseforge launcher

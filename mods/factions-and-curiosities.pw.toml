@@ -1,0 +1,13 @@
+name = "Factions And Curiosities"
+filename = "fnc-1.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DNoiFv06/versions/hTL3FIoz/fnc-1.2.6.jar"
+hash-format = "sha1"
+hash = "e19fa40f82262c15f1d4676f79a43daf22945077"
+
+[update]
+[update.modrinth]
+mod-id = "DNoiFv06"
+version = "hTL3FIoz"
