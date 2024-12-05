@@ -1,0 +1,13 @@
+name = "Fzzy Config"
+filename = "fzzy_config-0.5.8+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/zesWsGFg/fzzy_config-0.5.8%2B1.20.1%2Bforge.jar"
+hash-format = "sha1"
+hash = "dfff813d2ffe045277b7030d5a4e68a0fe44eee8"
+
+[update]
+[update.modrinth]
+mod-id = "hYykXjDp"
+version = "zesWsGFg"

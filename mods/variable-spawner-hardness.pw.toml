@@ -1,0 +1,13 @@
+name = "Variable Spawner Hardness"
+filename = "variablespawnerhardness-1.20-1.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xyjMhTy4/versions/Dd0n7g4Q/variablespawnerhardness-1.20-1.4.0.jar"
+hash-format = "sha1"
+hash = "d5e8ec550d1a7e51d10b30f736e2eee397d65008"
+
+[update]
+[update.modrinth]
+mod-id = "xyjMhTy4"
+version = "Dd0n7g4Q"
